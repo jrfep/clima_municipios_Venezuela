@@ -20,7 +20,7 @@ periodo.actividad <- with(dts,aggregate(fch,list(serial=serial),range))
 
 ## Figura resumen de la secuencia histórica de datos de precipitación para el municipio seleccionado
 svg(file=sprintf("%s/HistoricoPrecipitacion_Municipio_%s_EstadoZulia.svg",
-        out.dir,mi.municipio),width=7,height=6)
+        out.dir,mi.municipio),width=10,height=8)
 layout(matrix(1:4,ncol=1))
 par(mar=c(3,3,0,3),oma=c(3,3,3,3))
 for (k in 1:4) {
