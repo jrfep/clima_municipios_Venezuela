@@ -18,7 +18,14 @@ periodo.historico <- seq(min(precipitacion$año),max(precipitacion$año)+1,lengt
 ## definir periodo de actividad de las estaciones climáticas
 periodo.actividad <- with(dts,aggregate(fch,list(serial=serial),range))
 
-## Figura resumen de la secuencia histórica de datos de precipitación para el municipio seleccionado
+##########
+## Figuras resumen de la secuencia histórica de datos de precipitación para el municipio seleccionado
+##########
+
+##########
+## precipitación mensual por estación
+####
+
 svg(file=sprintf("%s/HistoricoPrecipitacion_Municipio_%s_EstadoZulia.svg",
         out.dir,mi.municipio),width=10,height=8)
 layout(matrix(1:4,ncol=1))
@@ -43,4 +50,31 @@ mtext("Año",1,line=1,outer=T)
 mtext("Precipitación mensual [mm]",2,line=1,outer=T)
 mtext("Serial de estación meteorológica INAMEH",4,line=1,outer=T)
 mtext(sprintf("Municipio %s, estado Zulia",mi.municipio),3,line=1,outer=T)
+dev.off()
+
+##########
+## precipitación promedio anual para todo el municipio
+###
+
+## defino variables para la figura:
+total.anual <- with(dts,tapply(precip,list(año=año,serial=serial),
+                sum,na.rm=T))
+promedio.anual <- apply(total.anual,1,median,na.rm=T)
+promedio.multianual <- supsmu(as.numeric(rownames(total.anual)),
+                              apply(total.anual,1,median,na.rm=T))
+años <- as.numeric(rownames(total.anual))
+
+
+svg(file=sprintf("%s/HistoricoPrecipitacionAnual_Municipio_%s_EstadoZulia.svg",
+        out.dir,mi.municipio),width=10,height=8)
+
+matplot(años,total.anual,type="p",col="grey87",lwd=1,pch=19,xlab="Años",ylab="Precipitación anual [mm]",main=sprintf("Municipio %s, estado Zulia",mi.municipio))
+
+segments(años,promedio.multianual$y,años,promedio.anual,
+         col=c("slateblue4","orangered")[1+(promedio.anual<promedio.multianual$y)],lwd=2,lty=1)
+lines(promedio.multianual,lwd=4,lty=1)
+lines(años,promedio.anual,lwd=3,type="p",col=c("slateblue4","orangered")[1+(promedio.anual<promedio.multianual$y)])
+abline(h=median(promedio.anual),lty=3)
+text(2005,median(promedio.anual)+30,sprintf("%0.1f mm",median(promedio.anual)))
+
 dev.off()
