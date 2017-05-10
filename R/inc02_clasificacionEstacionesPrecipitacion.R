@@ -73,14 +73,25 @@ svg(file=sprintf("%s/ClasificacionEstaciones_EstadoZulia.svg",
 
 par(mar=c(0,0,0,0),fig=c(0,1,0,1),new=F)
 plot(subset(adm2,NAME_1 %in% "Zulia"),border="pink",col="aliceblue",lwd=1.5)
+
+if (exists("logo"))
+    rasterImage(logo, -74.15, 8.2, -72.9, 9.45)
+
 symbols(xys[,1],xys[,2],circles=sqrt(rowSums(mtz)),inches=.10,
         bg=clrs[grp],fg=1,add=T)
+title("Precipitación promedio mensual [mm] por estaciones climáticas",line=-2)
+title("Estado Zulia",line=-3)
 
 par(fig=c(.75,.95,.7,.9),new=TRUE,las=2,cex.axis=.8)
-barplot(apply(mtz[grp==1,],2,median),col=clrs[1],ylim=c(0,250),main="Grupo 1",xpd=NA)
+barplot(apply(mtz[grp==1,],2,median),col=clrs[1],ylim=c(0,250),main="Promedio Grupo 1",xpd=NA,cex.main=.9)
 par(fig=c(.8,1.,.08,.28),new=TRUE,las=2,cex.axis=.8)
-barplot(apply(mtz[grp==3,],2,median),col=clrs[3],ylim=c(0,250),main="Grupo 3",xpd=NA)
+barplot(apply(mtz[grp==3,],2,median),col=clrs[3],ylim=c(0,250),main="Promedio Grupo 3",xpd=NA,cex.main=.9)
 par(fig=c(.1,.3,.6,.8),new=TRUE,las=2,cex.axis=.8)
-barplot(apply(mtz[grp==2,],2,median),col=clrs[2],ylim=c(0,250),main="Grupo 2",xpd=NA)
+barplot(apply(mtz[grp==2,],2,median),col=clrs[2],ylim=c(0,250),main="Promedio Grupo 2",xpd=NA,cex.main=.9)
+
+
+        
+
 
 dev.off()
+

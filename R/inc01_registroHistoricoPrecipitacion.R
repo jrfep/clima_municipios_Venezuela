@@ -1,8 +1,8 @@
 ##R --vanilla
 
 ## definir directorios de trabajo
-data.dir <- "Rdata"
-out.dir <- "output"
+data.dir <- "../Rdata"
+out.dir <- "../output"
 
 ## cargar los datos para el estado Zulia
 load(sprintf("%s/climaZulia.rda",data.dir))
@@ -27,7 +27,7 @@ periodo.actividad <- with(dts,aggregate(fch,list(serial=serial),range))
 ####
 
 svg(file=sprintf("%s/HistoricoPrecipitacion_Municipio_%s_EstadoZulia.svg",
-        out.dir,mi.municipio),width=10,height=8)
+        out.dir,gsub(" ","_",mi.municipio)),width=10,height=8)
 layout(matrix(1:4,ncol=1))
 par(mar=c(3,3,0,3),oma=c(3,3,3,3))
 for (k in 1:4) {
@@ -66,7 +66,7 @@ años <- as.numeric(rownames(total.anual))
 
 
 svg(file=sprintf("%s/HistoricoPrecipitacionAnual_Municipio_%s_EstadoZulia.svg",
-        out.dir,mi.municipio),width=10,height=8)
+        out.dir,gsub(" ","_",mi.municipio)),width=10,height=8)
 
 matplot(años,total.anual,type="p",col="grey87",lwd=1,pch=19,xlab="Años",ylab="Precipitación anual [mm]",main=sprintf("Municipio %s, estado Zulia",mi.municipio))
 
