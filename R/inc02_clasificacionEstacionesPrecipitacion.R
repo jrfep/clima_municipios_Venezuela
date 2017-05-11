@@ -74,7 +74,7 @@ svg(file=sprintf("%s/ClasificacionEstaciones_EstadoZulia.svg",
 par(mar=c(0,0,0,0),fig=c(0,1,0,1),new=F)
 plot(subset(adm2,NAME_1 %in% "Zulia"),border="pink",col="aliceblue",lwd=1.5)
 
-if (exists("logo"))
+if (require(png) & exists("logo"))
     rasterImage(logo, -74.15, 8.2, -72.9, 9.45)
 
 symbols(xys[,1],xys[,2],circles=sqrt(rowSums(mtz)),inches=.10,
