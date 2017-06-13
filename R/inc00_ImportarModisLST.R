@@ -49,3 +49,12 @@ for (aa in lista.fechas) {
                 grep("hdf",grep("h1[12]v0[78]",hdfs,value=T),value=T)),
         append=T)
 }
+
+## para descargar nos colocamos en la carpeta destino
+setwd(mapoteca)
+
+## La descarga requiere registrarse en https://urs.earthdata.nasa.gov
+## Se realiza el acceso al sitio por cualquier navegador y se exportar las credenciales de acceso de la sesión (por ejemplo con Advance Cookie Manager add-on en Firefox, https://www.facebook.com/cookiemanager/ exporto a un archivo "galletas")
+
+system(sprintf("wget --load-cookies galletas --continue -i %s/lista_archivos_descarga",mapoteca))
+
