@@ -50,6 +50,14 @@ mtext("Año",1,line=1,outer=T)
 mtext("Precipitación mensual [mm]",2,line=1,outer=T)
 mtext("Serial de estación meteorológica INAMEH",4,line=1,outer=T)
 mtext(sprintf("Municipio %s, estado Zulia",mi.municipio),3,line=1,outer=T)
+
+if (require(png) & exists("logo")) {
+    par(fig=c(.07,.23,.8,1.),new=TRUE,cex.axis=.8,xpd=NA,mar=c(0,0,0,0))
+    plot(1,1,pch=NA,axes=F,xlim=c(0,3),ylim=c(0,3),xlab="",ylab="")
+    rasterImage(logo, 0.1, 0.1, 3, 3)
+}
+
+
 dev.off()
 
 ##########
@@ -76,5 +84,11 @@ lines(promedio.multianual,lwd=4,lty=1)
 lines(años,promedio.anual,lwd=3,type="p",col=c("slateblue4","orangered")[1+(promedio.anual<promedio.multianual$y)])
 abline(h=median(promedio.anual),lty=3)
 text(2005,median(promedio.anual)+30,sprintf("%0.1f mm",median(promedio.anual)))
+
+if (require(png) & exists("logo")) {
+    par(fig=c(.10,.27,.65,.87),new=TRUE,cex.axis=.8,xpd=NA,mar=c(0,0,0,0))
+    plot(1,1,pch=NA,axes=F,xlim=c(0,3),ylim=c(0,3),xlab="",ylab="")
+    rasterImage(logo, 0.1, 0.1, 3, 3)
+}
 
 dev.off()
