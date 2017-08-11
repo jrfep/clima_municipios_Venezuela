@@ -2,7 +2,7 @@
 
 **Datos**
 
-Los datos originales de las estaciones climáticas de Venezuela fueron descargados de la página del Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela (INAMEH, http://www.inameh.gob.ve/web/).  
+Los datos de las estaciones climáticas de Venezuela fueron descargados de la página del Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela (INAMEH, http://www.inameh.gob.ve/web/).  
 
 Ver archivo inc00_ImportarDatosINAMEH.R con los pasos detallados para la descarga automatica de los datos.
 
