@@ -18,9 +18,10 @@ gaz.ven$y <- as.numeric(gaz.ven$LAT)
 coordinates(gaz.ven) <- c("x","y")
 proj4string(gaz.ven) <- "+proj=longlat +datum=WGS84 +no_defs"
 
-## Capa de municipios de Venezuela, fuente de los datos GADM database of Global Administrative Areas:
-##http://biogeo.ucdavis.edu/data/gadm2.8/rds/VEN_adm2.rds
-##download.file("http://biogeo.ucdavis.edu/data/gadm2.8/rds/VEN_adm2.rds","VEN_adm2.rds")
+## descargamos archivo de municipios para Venezuela
+## ver:
+## source("inc00_ImportarDatosMunicipios.R")
+## #leemos el archivo 
 adm2 <- readRDS("VEN_adm2.rds")
 
 gaz.ven.adm2 <- over(gaz.ven,adm2)
