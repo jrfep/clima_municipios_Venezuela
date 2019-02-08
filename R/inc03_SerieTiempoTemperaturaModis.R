@@ -69,6 +69,8 @@ mLSTn <- rowMeans(lsts[,grep("Night",colnames(lsts))],na.rm=T)
 
 head(cbind(mLST,mLSTd,mLSTn))
 
+## Mapa de la temperatura media en cada centro poblado de Venezuela según los datos de MODIS para el periodo 2000 a 2011
+
 svg(file=sprintf("%s/TemperaturaMedia_Venezuela_Modis.svg",
         out.dir),width=8,height=7)
 par(mar=c(0,0,2,0))
@@ -76,17 +78,25 @@ plot(adm2,ylim=c(0,12.5),main="Temperatura media en centros poblados de Venezuel
 points(gaz.ven,col=rev(heat.colors(10))[cut(mLST,breaks=10)],pch=3,cex=.5)
 plot(adm2,border=rgb(.3,.3,.3,.3),add=T)
 legend("bottomleft",legend=levels(cut(mLST,breaks=10)),fill=rev(heat.colors(10)),title="Intervalos °C")
-
 dev.off()
+
+
+## Diagramas de cajas de la temperatura media de los centros poblados por estados de Venezuela según los datos de MODIS para el periodo 2000 a 2011
 
 ss <- aggregate(mLST,list(estado=gaz.ven.adm2$NAME_1),median,na.rm=T)
 ss <- subset(ss,!is.na(x))
 oo <- order(ss$x)
 
 
+svg(file=sprintf("%s/TemperaturaMedia_Municipios_Modis.svg",
+        out.dir),width=8,height=7)
 par(mar=c(7,4,0,0))
 boxplot(mLST~factor(gaz.ven.adm2$NAME_1,levels=ss[oo,"estado"]),
-        las=2,varwidth=T)
+        las=2,varwidth=T,ylab="Temperatura [°C]")
+dev.off()
+
+
+
 
 ss <- aggregate(mLST,list(estado=gaz.ven.adm2$NAME_1,municipio=gaz.ven.adm2$NAME_2),median,na.rm=T)
 ss <- subset(ss,!is.na(x))
