@@ -1,5 +1,4 @@
 ##R --vanilla
-
 ## cargar paquetes necesarios
 require(raster)
 
@@ -10,7 +9,7 @@ source("inc00_funciones.R")
 ## ver:
 ## source("inc00_ImportarDatosNomenclator.R")
 ## #leemos el archivo con los centros poblados
-gaz.ven <- read.table("data/ve_populatedplaces_p.txt",sep="\t",header=T)
+gaz.ven <- read.table("../data/ve_populatedplaces_p.txt",sep="\t",header=T)
 
 ## #transformamos este objeto en un objeto espacial
 gaz.ven$x <- as.numeric(gaz.ven$LONG)
@@ -22,7 +21,7 @@ proj4string(gaz.ven) <- "+proj=longlat +datum=WGS84 +no_defs"
 ## ver:
 ## source("inc00_ImportarDatosMunicipios.R")
 ## #leemos el archivo 
-adm2 <- readRDS("VEN_adm2.rds")
+adm2 <- readRDS("../data/VEN_adm2.rds")
 
 gaz.ven.adm2 <- over(gaz.ven,adm2)
 
@@ -31,6 +30,10 @@ gaz.ven.adm2 <- over(gaz.ven,adm2)
 ## #los mapas están guardado en:
 mapoteca <- "~/mapas/Venezuela/LST_Day_1km/"
 
+## ¡Aquí empieza la diversión!
+## aquí hacemos una serie de tiempo con el valor de las imágenes modis
+## para cada localidad y cada año y las concatenamos
+## Primero la variable LST day (temperatura diurna de la superficie de la tierra)
 rm(lsts)
 for (ff in sprintf("A%s",2000:2011)) {
     mps <- stack(dir(mapoteca,ff,full.names=T))
@@ -42,6 +45,9 @@ for (ff in sprintf("A%s",2000:2011)) {
         lsts <- cbind(lsts,mSSt(gaz.lst,ll=7500,ul=NA,cf=0.02,os=-273.15))
     }
 }
+
+## Ahora la variable LST night (... ya deben imaginarse lo que significa)
+
 mapoteca <- "~/mapas/Venezuela/LST_Night_1km/"
 for (ff in sprintf("A%s",2000:2011)) {
     mps <- stack(dir(mapoteca,ff,full.names=T))
@@ -50,6 +56,7 @@ for (ff in sprintf("A%s",2000:2011)) {
     lsts <- cbind(lsts,mSSt(gaz.lst,ll=7500,ul=NA,cf=0.02,os=-273.15))
 }
 
+## Ahora podemos calcular los promedios totales, diurnos y nocturnos para cada localidad
 
 mLST <- rowMeans(lsts,na.rm=T)
 mLSTd <- rowMeans(lsts[,grep("Day",colnames(lsts))],na.rm=T)
