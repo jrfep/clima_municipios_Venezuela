@@ -2,6 +2,11 @@
 ## cargar paquetes necesarios
 require(raster)
 
+## definir directorios de trabajo
+data.dir <- "../data"
+out.dir <- "../output"
+
+
 ## cargar algunas funciones útiles
 source("inc00_funciones.R")
 
@@ -9,7 +14,7 @@ source("inc00_funciones.R")
 ## ver:
 ## source("inc00_ImportarDatosNomenclator.R")
 ## #leemos el archivo con los centros poblados
-gaz.ven <- read.table("../data/ve_populatedplaces_p.txt",sep="\t",header=T)
+gaz.ven <- read.table(sprintf("%s/ve_populatedplaces_p.txt",data.dir),sep="\t",header=T)
 
 ## #transformamos este objeto en un objeto espacial
 gaz.ven$x <- as.numeric(gaz.ven$LONG)
@@ -21,7 +26,7 @@ proj4string(gaz.ven) <- "+proj=longlat +datum=WGS84 +no_defs"
 ## ver:
 ## source("inc00_ImportarDatosMunicipios.R")
 ## #leemos el archivo 
-adm2 <- readRDS("../data/VEN_adm2.rds")
+adm2 <- readRDS(sprintf("%s/VEN_adm2.rds",data.dir))
 
 gaz.ven.adm2 <- over(gaz.ven,adm2)
 
@@ -64,11 +69,16 @@ mLSTn <- rowMeans(lsts[,grep("Night",colnames(lsts))],na.rm=T)
 
 head(cbind(mLST,mLSTd,mLSTn))
 
+svg(file=sprintf("%s/TemperaturaMedia_Venezuela_Modis.svg",
+        out.dir),width=10,height=8)
+par(mar=c(0,0,2,0))
+plot(adm2,ylim=c(0,12.5),main="Temperatura media en centros poblados de Venezuela\n2000 a 2011",col="wheat")
+points(gaz.ven,col=rev(heat.colors(10))[cut(mLST,breaks=10)],pch=3,cex=.5)
+plot(adm2,border=rgb(.3,.3,.3,.3),add=T)
+legend("bottomleft",legend=levels(cut(mLST,breaks=10)),fill=rev(heat.colors(10)),title="Intervalos °C")
 
-plot(gaz.ven,col=rev(heat.colors(10))[cut(mLST,breaks=10)])
+dev.off()
 
-
-plot(gaz.ven,col=rev(heat.colors(10))[cut(mLST,breaks=10)])
 ss <- aggregate(mLST,list(estado=gaz.ven.adm2$NAME_1),median,na.rm=T)
 ss <- subset(ss,!is.na(x))
 oo <- order(ss$x)
