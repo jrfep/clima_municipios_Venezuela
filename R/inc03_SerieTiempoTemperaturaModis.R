@@ -70,7 +70,7 @@ mLSTn <- rowMeans(lsts[,grep("Night",colnames(lsts))],na.rm=T)
 head(cbind(mLST,mLSTd,mLSTn))
 
 svg(file=sprintf("%s/TemperaturaMedia_Venezuela_Modis.svg",
-        out.dir),width=10,height=8)
+        out.dir),width=8,height=7)
 par(mar=c(0,0,2,0))
 plot(adm2,ylim=c(0,12.5),main="Temperatura media en centros poblados de Venezuela\n2000 a 2011",col="wheat")
 points(gaz.ven,col=rev(heat.colors(10))[cut(mLST,breaks=10)],pch=3,cex=.5)
