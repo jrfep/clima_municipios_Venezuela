@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Bruzual, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 42.1
+|Feb record high C = 44.6
+|Mar record high C = 45.4
+|Apr record high C = 47.9
+|May record high C = 41.7
+|Jun record high C = 37.7
+|Jul record high C = 37.9
+|Aug record high C = 37.2
+|Sep record high C = 40.4
+|Oct record high C = 41.7
+|Nov record high C = 38.4
+|Dec record high C = 39.8
+|year record high C = 47.9
+|Jan high C = 30.8
+|Feb high C = 33.3
+|Mar high C = 34.6
+|Apr high C = 28.8
+|May high C = 28.2
+|Jun high C = 27.3
+|Jul high C = 26.2
+|Aug high C = 27.4
+|Sep high C = 28.8
+|Oct high C = 28.4
+|Nov high C = 27.5
+|Dec high C = 28.1
+|year high C = 29.1
+|Jan mean C = 25.2
+|Feb mean C = 26.3
+|Mar mean C = 25.7
+|Apr mean C = 22.1
+|May mean C = 23.2
+|Jun mean C = 23.8
+|Jul mean C = 22.9
+|Aug mean C = 24.1
+|Sep mean C = 25.0
+|Oct mean C = 24.6
+|Nov mean C = 23.7
+|Dec mean C = 23.8
+|year mean C = 24.4
+|Jan low C = 19.3
+|Feb low C = 19.6
+|Mar low C = 19.8
+|Apr low C = 20.1
+|May low C = 20.0
+|Jun low C = 20.0
+|Jul low C = 19.8
+|Aug low C = 20.6
+|Sep low C = 21.1
+|Oct low C = 20.5
+|Nov low C = 20.0
+|Dec low C = 19.3
+|year low C = 20.0
+|Jan record low C = 11.7
+|Feb record low C = 13.6
+|Mar record low C = 12.7
+|Apr record low C = 13.7
+|May record low C = 9.5
+|Jun record low C = 6.8
+|Jul record low C = 8.9
+|Aug record low C = 14.5
+|Sep record low C = 14.6
+|Oct record low C = 14.4
+|Nov record low C = 11.2
+|Dec record low C = 9.7
+|year record low C = 6.8
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

@@ -1,5 +1,6 @@
 edo <- "Zulia"
 slc <- "Mara"
+edo <- "Yaracuy"
 
 for (slc in unique(subset(gaz.ven.adm2,NAME_1 %in% edo)$NAME_2)) {
     ss <- gaz.ven.adm2$NAME_1 %in% edo & gaz.ven.adm2$NAME_2 %in% slc

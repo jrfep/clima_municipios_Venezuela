@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Bolívar, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 36.0
+|Feb record high C = 39.8
+|Mar record high C = 42.8
+|Apr record high C = 39.6
+|May record high C = 38.6
+|Jun record high C = 39.7
+|Jul record high C = 40.2
+|Aug record high C = 39.9
+|Sep record high C = 41.3
+|Oct record high C = 39.9
+|Nov record high C = 33.3
+|Dec record high C = 33.9
+|year record high C = 42.8
+|Jan high C = 26.5
+|Feb high C = 27.4
+|Mar high C = 29.7
+|Apr high C = 29.1
+|May high C = 28.7
+|Jun high C = 28.1
+|Jul high C = 27.9
+|Aug high C = 29.5
+|Sep high C = 30.7
+|Oct high C = 29.1
+|Nov high C = 26.5
+|Dec high C = 25.7
+|year high C = 28.1
+|Jan mean C = 23.2
+|Feb mean C = 23.6
+|Mar mean C = 24.8
+|Apr mean C = 24.4
+|May mean C = 24.9
+|Jun mean C = 25.3
+|Jul mean C = 24.4
+|Aug mean C = 25.7
+|Sep mean C = 26.6
+|Oct mean C = 25.4
+|Nov mean C = 23.7
+|Dec mean C = 22.9
+|year mean C = 24.5
+|Jan low C = 19.0
+|Feb low C = 18.9
+|Mar low C = 19.5
+|Apr low C = 19.6
+|May low C = 20.5
+|Jun low C = 20.0
+|Jul low C = 20.4
+|Aug low C = 21.1
+|Sep low C = 21.5
+|Oct low C = 20.6
+|Nov low C = 20.0
+|Dec low C = 19.0
+|year low C = 20.0
+|Jan record low C = 7.2
+|Feb record low C = 9.6
+|Mar record low C = 5.0
+|Apr record low C = 12.5
+|May record low C = 7.2
+|Jun record low C = 1.8
+|Jul record low C = 5.8
+|Aug record low C = 13.0
+|Sep record low C = 13.8
+|Oct record low C = 10.5
+|Nov record low C = 3.0
+|Dec record low C = 8.2
+|year record low C = 1.8
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

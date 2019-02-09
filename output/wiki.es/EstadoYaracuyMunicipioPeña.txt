@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Peña, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 41.9
+|Feb record high C = 44.9
+|Mar record high C = 46.8
+|Apr record high C = 44.2
+|May record high C = 41.5
+|Jun record high C = 37.0
+|Jul record high C = 31.4
+|Aug record high C = 35.3
+|Sep record high C = 36.3
+|Oct record high C = 39.1
+|Nov record high C = 39.6
+|Dec record high C = 39.9
+|year record high C = 46.8
+|Jan high C = 28.1
+|Feb high C = 30.3
+|Mar high C = 31.4
+|Apr high C = 28.4
+|May high C = 26.7
+|Jun high C = 24.6
+|Jul high C = 23.8
+|Aug high C = 25.0
+|Sep high C = 26.1
+|Oct high C = 26.4
+|Nov high C = 25.5
+|Dec high C = 26.0
+|year high C = 26.8
+|Jan mean C = 23.0
+|Feb mean C = 24.1
+|Mar mean C = 24.2
+|Apr mean C = 22.0
+|May mean C = 22.2
+|Jun mean C = 21.6
+|Jul mean C = 21.2
+|Aug mean C = 22.1
+|Sep mean C = 22.9
+|Oct mean C = 22.9
+|Nov mean C = 22.0
+|Dec mean C = 21.9
+|year mean C = 22.5
+|Jan low C = 17.9
+|Feb low C = 18.1
+|Mar low C = 18.6
+|Apr low C = 18.9
+|May low C = 19.4
+|Jun low C = 18.9
+|Jul low C = 18.6
+|Aug low C = 19.2
+|Sep low C = 19.7
+|Oct low C = 19.4
+|Nov low C = 18.8
+|Dec low C = 18.1
+|year low C = 18.7
+|Jan record low C = 13.0
+|Feb record low C = 7.8
+|Mar record low C = 12.4
+|Apr record low C = 12.0
+|May record low C = 12.9
+|Jun record low C = 6.4
+|Jul record low C = 11.2
+|Aug record low C = 10.1
+|Sep record low C = 11.3
+|Oct record low C = 12.3
+|Nov record low C = 6.1
+|Dec record low C = 11.9
+|year record low C = 6.1
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}
