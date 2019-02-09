@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Catatumbo, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 37.3
+|Feb record high C = 40.8
+|Mar record high C = 42.5
+|Apr record high C = 34.5
+|May record high C = 36.3
+|Jun record high C = 34.7
+|Jul record high C = 37.2
+|Aug record high C = 39.7
+|Sep record high C = 37.4
+|Oct record high C = 33.3
+|Nov record high C = 32.3
+|Dec record high C = 33.1
+|year record high C = 42.5
+|Jan high C = 27.1
+|Feb high C = 28.8
+|Mar high C = 28.9
+|Apr high C = 27.5
+|May high C = 27.2
+|Jun high C = 27.0
+|Jul high C = 27.7
+|Aug high C = 28.4
+|Sep high C = 28.7
+|Oct high C = 27.3
+|Nov high C = 26.0
+|Dec high C = 25.9
+|year high C = 27.5
+|Jan mean C = 24.6
+|Feb mean C = 25.4
+|Mar mean C = 25.2
+|Apr mean C = 25.3
+|May mean C = 26.2
+|Jun mean C = 26.0
+|Jul mean C = 26.6
+|Aug mean C = 27.1
+|Sep mean C = 27.3
+|Oct mean C = 26.5
+|Nov mean C = 24.8
+|Dec mean C = 24.0
+|year mean C = 25.6
+|Jan low C = 22.2
+|Feb low C = 22.4
+|Mar low C = 22.5
+|Apr low C = 23.4
+|May low C = 23.7
+|Jun low C = 23.7
+|Jul low C = 23.0
+|Aug low C = 24.2
+|Sep low C = 23.8
+|Oct low C = 23.4
+|Nov low C = 22.7
+|Dec low C = 21.9
+|year low C = 22.8
+|Jan record low C = 10.5
+|Feb record low C = 9.0
+|Mar record low C = -0.7
+|Apr record low C = 13.4
+|May record low C = 12.9
+|Jun record low C = 5.2
+|Jul record low C = 11.3
+|Aug record low C = 8.8
+|Sep record low C = 10.9
+|Oct record low C = 9.3
+|Nov record low C = 10.1
+|Dec record low C = 8.3
+|year record low C = -0.7
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

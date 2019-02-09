@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Jesús María Semprún, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 35.8
+|Feb record high C = 38.4
+|Mar record high C = 45.2
+|Apr record high C = 36.9
+|May record high C = 36.4
+|Jun record high C = 35.2
+|Jul record high C = 35.9
+|Aug record high C = 36.7
+|Sep record high C = 37.7
+|Oct record high C = 34.5
+|Nov record high C = 32.9
+|Dec record high C = 34.1
+|year record high C = 45.2
+|Jan high C = 27.4
+|Feb high C = 29.5
+|Mar high C = 29.7
+|Apr high C = 27.9
+|May high C = 27.7
+|Jun high C = 27.6
+|Jul high C = 28.2
+|Aug high C = 28.8
+|Sep high C = 28.8
+|Oct high C = 27.5
+|Nov high C = 26.1
+|Dec high C = 26.2
+|year high C = 27.9
+|Jan mean C = 24.6
+|Feb mean C = 25.7
+|Mar mean C = 25.8
+|Apr mean C = 25.9
+|May mean C = 26.7
+|Jun mean C = 26.4
+|Jul mean C = 27.0
+|Aug mean C = 27.4
+|Sep mean C = 27.3
+|Oct mean C = 26.5
+|Nov mean C = 24.6
+|Dec mean C = 24.0
+|year mean C = 25.8
+|Jan low C = 21.7
+|Feb low C = 21.8
+|Mar low C = 22.1
+|Apr low C = 22.6
+|May low C = 22.6
+|Jun low C = 22.7
+|Jul low C = 22.3
+|Aug low C = 23.3
+|Sep low C = 23.1
+|Oct low C = 22.0
+|Nov low C = 22.0
+|Dec low C = 21.1
+|year low C = 22.0
+|Jan record low C = 1.1
+|Feb record low C = 4.9
+|Mar record low C = 2.7
+|Apr record low C = 10.9
+|May record low C = 12.2
+|Jun record low C = 11.0
+|Jul record low C = 10.6
+|Aug record low C = 10.9
+|Sep record low C = 11.4
+|Oct record low C = 6.9
+|Nov record low C = 5.3
+|Dec record low C = 3.3
+|year record low C = 1.1
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

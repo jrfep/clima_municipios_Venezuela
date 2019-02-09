@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio La Cañada de Urdaneta, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 43.8
+|Feb record high C = 45.5
+|Mar record high C = 46.4
+|Apr record high C = 44.6
+|May record high C = 43.1
+|Jun record high C = 42.3
+|Jul record high C = 42.5
+|Aug record high C = 45.6
+|Sep record high C = 41.2
+|Oct record high C = 38.8
+|Nov record high C = 39.0
+|Dec record high C = 41.1
+|year record high C = 46.4
+|Jan high C = 33.4
+|Feb high C = 35.9
+|Mar high C = 36.2
+|Apr high C = 31.8
+|May high C = 29.7
+|Jun high C = 29.4
+|Jul high C = 30.8
+|Aug high C = 28.9
+|Sep high C = 29.4
+|Oct high C = 27.8
+|Nov high C = 27.8
+|Dec high C = 30.2
+|year high C = 31.0
+|Jan mean C = 28.0
+|Feb mean C = 28.6
+|Mar mean C = 26.4
+|Apr mean C = 25.1
+|May mean C = 26.4
+|Jun mean C = 26.3
+|Jul mean C = 27.0
+|Aug mean C = 26.9
+|Sep mean C = 26.8
+|Oct mean C = 26.0
+|Nov mean C = 25.4
+|Dec mean C = 26.1
+|year mean C = 26.8
+|Jan low C = 22.8
+|Feb low C = 23.1
+|Mar low C = 23.3
+|Apr low C = 23.3
+|May low C = 23.7
+|Jun low C = 23.8
+|Jul low C = 24.0
+|Aug low C = 24.8
+|Sep low C = 24.0
+|Oct low C = 23.5
+|Nov low C = 22.9
+|Dec low C = 22.3
+|year low C = 23.3
+|Jan record low C = 17.4
+|Feb record low C = 16.2
+|Mar record low C = 15.0
+|Apr record low C = 13.1
+|May record low C = 14.1
+|Jun record low C = 14.8
+|Jul record low C = 11.5
+|Aug record low C = 10.0
+|Sep record low C = 14.2
+|Oct record low C = 12.8
+|Nov record low C = 10.7
+|Dec record low C = 3.1
+|year record low C = 3.1
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

@@ -10,7 +10,7 @@ Ver archivo inc00_ImportarDatosINAMEH.R con los pasos detallados para la descarg
 ***Modis***
 Usamos también datos de variables derivadas de sensores remotos, particularmente parte de los productos derivados de sensores Modis.
 
-Ver archivo inc00_ImportarDatosModisLST.R con los pasos detallados para la descarga automatica de los datos.
+Ver archivo inc00_ImportarModisLST.R con los pasos detallados para la descarga automatica de los datos.
 
 ***Otros***
 

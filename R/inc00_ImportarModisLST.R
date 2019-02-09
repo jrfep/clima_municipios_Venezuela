@@ -4,6 +4,8 @@ require(rvest)
 setwd("~/tmp")
 ## Para la representación de la temperatura de la superficie de la tierra utilizamos el producto MOD11A2 derivado de datos de sensores Modis.
 
+##Reference: Wan, Z., Hook, S., Hulley, G. (2015). MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]. NASA EOSDIS LP DAAC. doi: 10.5067/MODIS/MOD11A2.006
+
 ## Información sobre la fuente de datos y sus características espaciales y temporales se encuentra en:
 ## #https://gcmd.nasa.gov/KeywordSearch/Metadata.do?Portal=daacs&KeywordPath=Parameters|LAND+SURFACE|SURFACE+THERMAL+PROPERTIES|LAND+SURFACE+TEMPERATURE|[Freetext%3D%27Modis%27]&OrigMetadataNode=GCMD&EntryId=MOD11A25&MetadataView=Full&MetadataType=0&lbnode=mdlb1
 

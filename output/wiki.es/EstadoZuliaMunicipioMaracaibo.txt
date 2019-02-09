@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Maracaibo, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 43.9
+|Feb record high C = 46.4
+|Mar record high C = 45.8
+|Apr record high C = 49.6
+|May record high C = 45.6
+|Jun record high C = 44.1
+|Jul record high C = 46.8
+|Aug record high C = 45.5
+|Sep record high C = 43.8
+|Oct record high C = 40.7
+|Nov record high C = 42.4
+|Dec record high C = 41.3
+|year record high C = 49.6
+|Jan high C = 35.7
+|Feb high C = 36.7
+|Mar high C = 37.0
+|Apr high C = 34.7
+|May high C = 33.2
+|Jun high C = 33.5
+|Jul high C = 35.1
+|Aug high C = 33.0
+|Sep high C = 32.1
+|Oct high C = 31.0
+|Nov high C = 31.6
+|Dec high C = 33.6
+|year high C = 34.6
+|Jan mean C = 29.5
+|Feb mean C = 29.0
+|Mar mean C = 27.4
+|Apr mean C = 26.0
+|May mean C = 27.0
+|Jun mean C = 27.3
+|Jul mean C = 27.8
+|Aug mean C = 27.6
+|Sep mean C = 26.8
+|Oct mean C = 27.1
+|Nov mean C = 26.4
+|Dec mean C = 27.9
+|year mean C = 27.8
+|Jan low C = 24.0
+|Feb low C = 24.1
+|Mar low C = 24.1
+|Apr low C = 24.5
+|May low C = 25.3
+|Jun low C = 25.6
+|Jul low C = 25.7
+|Aug low C = 26.1
+|Sep low C = 25.3
+|Oct low C = 25.1
+|Nov low C = 23.7
+|Dec low C = 23.7
+|year low C = 24.6
+|Jan record low C = 8.7
+|Feb record low C = 11.3
+|Mar record low C = 14.7
+|Apr record low C = 9.0
+|May record low C = 16.2
+|Jun record low C = 17.2
+|Jul record low C = 12.4
+|Aug record low C = 16.1
+|Sep record low C = 4.5
+|Oct record low C = 9.3
+|Nov record low C = 7.6
+|Dec record low C = 15.9
+|year record low C = 4.5
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

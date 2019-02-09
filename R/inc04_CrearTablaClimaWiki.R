@@ -1,0 +1,75 @@
+edo <- "Zulia"
+slc <- "Mara"
+
+for (slc in unique(subset(gaz.ven.adm2,NAME_1 %in% edo)$NAME_2)) {
+    ss <- gaz.ven.adm2$NAME_1 %in% edo & gaz.ven.adm2$NAME_2 %in% slc
+    wiki.out <- sprintf("../output/wiki.es/Estado%sMunicipio%s.txt",edo,gsub(" ","_",slc))
+
+    cat(file=wiki.out,sprintf("{{clima
+|location = Municipio %s, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y",slc))
+    
+    
+    for (mm in month.abb) {
+        cat(file=wiki.out,sprintf("|%s record high C = %0.1f\n",mm,
+                max(lsts[ss,grepl("Day",colnames(lsts)) & meses %in% mm],na.rm=T)
+                                  ),append=T)
+    }
+    cat(file=wiki.out,sprintf("|year record high C = %0.1f\n",max(lsts[ss,grepl("Day",colnames(lsts))],na.rm=T)),append=T)
+    
+    for (mm in month.abb) {
+        cat(file=wiki.out,sprintf("|%s high C = %0.1f\n",mm,
+                mean(lsts[ss,grepl("Day",colnames(lsts)) & meses %in% mm],na.rm=T)
+                                  ),append=T)
+    }
+    cat(file=wiki.out,sprintf("|year high C = %0.1f\n",
+            mean(lsts[ss,grepl("Day",colnames(lsts))],na.rm=T)
+                              ),append=T)
+    
+    for (mm in month.abb) {
+        cat(file=wiki.out,sprintf("|%s mean C = %0.1f\n",mm,
+                mean(lsts[ss, meses %in% mm],na.rm=T)
+                                  ),append=T)
+    }
+    cat(file=wiki.out,sprintf("|year mean C = %0.1f\n",
+            mean(lsts[ss,],na.rm=T)
+                              ),append=T)
+    
+    for (mm in month.abb) {
+        cat(file=wiki.out,sprintf("|%s low C = %0.1f\n",mm,
+                mean(lsts[ss,grepl("Night",colnames(lsts)) & meses %in% mm],na.rm=T)
+                                  ),append=T)
+    }
+    cat(file=wiki.out,sprintf("|year low C = %0.1f\n",
+            mean(lsts[ss,grepl("Night",colnames(lsts))],na.rm=T)
+                              ),append=T)
+    
+    for (mm in month.abb) {
+        cat(file=wiki.out,sprintf("|%s record low C = %0.1f\n",mm,
+                min(lsts[ss,grepl("Night",colnames(lsts)) & meses %in% mm],na.rm=T)
+                                  ),append=T)
+    }
+    cat(file=wiki.out,sprintf("|year record low C = %0.1f\n",
+            min(lsts[ss,grepl("Night",colnames(lsts))],na.rm=T)
+                              ),append=T)
+    
+    if (exists("pres")) {
+        for (mm in month.abb) {
+            cat(file=wiki.out,sprintf("|%s precipitation mm = %0.1f\n",mm,),append=T)
+        }
+        cat(file=wiki.out,sprintf("|year precipitation mm = %0.1f\n",),append=T)
+    }
+    
+    cat(file=wiki.out,sprintf("
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}"),append=T)
+}

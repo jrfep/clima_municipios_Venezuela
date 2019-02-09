@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Miranda, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 42.8
+|Feb record high C = 46.4
+|Mar record high C = 48.1
+|Apr record high C = 50.6
+|May record high C = 47.4
+|Jun record high C = 44.5
+|Jul record high C = 47.5
+|Aug record high C = 46.6
+|Sep record high C = 47.8
+|Oct record high C = 46.0
+|Nov record high C = 43.4
+|Dec record high C = 41.8
+|year record high C = 50.6
+|Jan high C = 33.3
+|Feb high C = 35.7
+|Mar high C = 36.9
+|Apr high C = 33.1
+|May high C = 31.4
+|Jun high C = 31.2
+|Jul high C = 32.0
+|Aug high C = 30.8
+|Sep high C = 30.1
+|Oct high C = 28.5
+|Nov high C = 28.4
+|Dec high C = 29.9
+|year high C = 31.7
+|Jan mean C = 28.2
+|Feb mean C = 29.4
+|Mar mean C = 28.9
+|Apr mean C = 27.0
+|May mean C = 27.8
+|Jun mean C = 27.7
+|Jul mean C = 28.1
+|Aug mean C = 27.9
+|Sep mean C = 27.5
+|Oct mean C = 26.7
+|Nov mean C = 26.0
+|Dec mean C = 26.3
+|year mean C = 27.7
+|Jan low C = 23.1
+|Feb low C = 23.5
+|Mar low C = 23.5
+|Apr low C = 23.8
+|May low C = 24.1
+|Jun low C = 24.1
+|Jul low C = 24.1
+|Aug low C = 24.4
+|Sep low C = 23.9
+|Oct low C = 23.6
+|Nov low C = 23.1
+|Dec low C = 22.6
+|year low C = 23.6
+|Jan record low C = 14.0
+|Feb record low C = 18.2
+|Mar record low C = 14.6
+|Apr record low C = 13.9
+|May record low C = 9.4
+|Jun record low C = 11.4
+|Jul record low C = 12.2
+|Aug record low C = 12.4
+|Sep record low C = 2.2
+|Oct record low C = 6.4
+|Nov record low C = 8.1
+|Dec record low C = 10.0
+|year record low C = 2.2
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

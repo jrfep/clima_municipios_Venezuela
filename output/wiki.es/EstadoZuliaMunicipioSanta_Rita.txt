@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Santa Rita, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 43.2
+|Feb record high C = 46.4
+|Mar record high C = 48.5
+|Apr record high C = 50.3
+|May record high C = 42.9
+|Jun record high C = 41.2
+|Jul record high C = 45.3
+|Aug record high C = 39.9
+|Sep record high C = 38.7
+|Oct record high C = 34.6
+|Nov record high C = 37.4
+|Dec record high C = 41.6
+|year record high C = 50.3
+|Jan high C = 32.7
+|Feb high C = 35.3
+|Mar high C = 35.5
+|Apr high C = 31.3
+|May high C = 29.4
+|Jun high C = 30.0
+|Jul high C = 30.6
+|Aug high C = 29.5
+|Sep high C = 29.0
+|Oct high C = 27.7
+|Nov high C = 27.6
+|Dec high C = 29.2
+|year high C = 30.6
+|Jan mean C = 27.8
+|Feb mean C = 29.0
+|Mar mean C = 27.7
+|Apr mean C = 26.2
+|May mean C = 26.9
+|Jun mean C = 27.2
+|Jul mean C = 27.4
+|Aug mean C = 27.2
+|Sep mean C = 26.8
+|Oct mean C = 26.1
+|Nov mean C = 25.6
+|Dec mean C = 25.9
+|year mean C = 27.1
+|Jan low C = 23.0
+|Feb low C = 23.5
+|Mar low C = 23.5
+|Apr low C = 23.6
+|May low C = 23.9
+|Jun low C = 23.9
+|Jul low C = 23.8
+|Aug low C = 24.2
+|Sep low C = 23.8
+|Oct low C = 23.4
+|Nov low C = 23.1
+|Dec low C = 22.5
+|year low C = 23.4
+|Jan record low C = 16.6
+|Feb record low C = 18.9
+|Mar record low C = 15.2
+|Apr record low C = 13.7
+|May record low C = 17.7
+|Jun record low C = 15.3
+|Jul record low C = 13.3
+|Aug record low C = 16.5
+|Sep record low C = 9.6
+|Oct record low C = 14.6
+|Nov record low C = 13.2
+|Dec record low C = 15.7
+|year record low C = 9.6
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}
