@@ -69,9 +69,6 @@ mLSTn <- rowMeans(lsts[,grep("Night",colnames(lsts))],na.rm=T)
 
 head(cbind(mLST,mLSTd,mLSTn))
 
-años <- unname(sapply(colnames(lsts),function(x) substr(strsplit(x,"\\.")[[1]][2],2,5)))
-meses <- cut(as.numeric(unname(sapply(colnames(lsts),function(x) substr(strsplit(x,"\\.")[[1]][2],6,9)))),breaks=cumsum(c(0,31,28,31,30,31,30,31,31,30,31,30,31)),labels=month.abb)
-
 ## Mapa de la temperatura media en cada centro poblado de Venezuela según los datos de MODIS para el periodo 2000 a 2011
 
 svg(file=sprintf("%s/TemperaturaMedia_Venezuela_Modis.svg",
