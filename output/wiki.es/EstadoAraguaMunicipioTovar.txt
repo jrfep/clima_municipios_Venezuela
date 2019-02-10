@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Tovar, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 32.2
+ |Feb record high C = 36.6
+ |Mar record high C = 38.0
+ |Apr record high C = 38.7
+ |May record high C = 35.8
+ |Jun record high C = 30.9
+ |Jul record high C = 30.3
+ |Aug record high C = 30.8
+ |Sep record high C = 30.9
+ |Oct record high C = 29.7
+ |Nov record high C = 28.7
+ |Dec record high C = 29.3
+|year record high C = 38.7
+|Jan high C = 24.0
+ |Feb high C = 25.3
+ |Mar high C = 26.0
+ |Apr high C = 25.5
+ |May high C = 24.0
+ |Jun high C = 22.8
+ |Jul high C = 22.8
+ |Aug high C = 23.4
+ |Sep high C = 23.9
+ |Oct high C = 23.7
+ |Nov high C = 22.9
+ |Dec high C = 22.9
+|year high C = 23.9
+|Jan mean C = 19.4
+ |Feb mean C = 19.9
+ |Mar mean C = 20.0
+ |Apr mean C = 19.5
+ |May mean C = 19.6
+ |Jun mean C = 19.3
+ |Jul mean C = 19.1
+ |Aug mean C = 19.8
+ |Sep mean C = 20.7
+ |Oct mean C = 20.0
+ |Nov mean C = 18.9
+ |Dec mean C = 19.1
+|year mean C = 19.6
+|Jan low C = 14.8
+ |Feb low C = 15.0
+ |Mar low C = 15.8
+ |Apr low C = 16.0
+ |May low C = 16.4
+ |Jun low C = 15.9
+ |Jul low C = 16.0
+ |Aug low C = 16.3
+ |Sep low C = 16.4
+ |Oct low C = 16.3
+ |Nov low C = 15.8
+ |Dec low C = 15.2
+|year low C = 15.8
+|Jan record low C = 9.0
+ |Feb record low C = 10.0
+ |Mar record low C = 9.4
+ |Apr record low C = 8.4
+ |May record low C = 8.8
+ |Jun record low C = 8.6
+ |Jul record low C = 7.3
+ |Aug record low C = 8.8
+ |Sep record low C = 7.2
+ |Oct record low C = 8.9
+ |Nov record low C = 7.2
+ |Dec record low C = 9.1
+|year record low C = 7.2
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

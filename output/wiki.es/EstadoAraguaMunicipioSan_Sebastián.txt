@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio San Sebastián, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 37.8
+ |Feb record high C = 40.9
+ |Mar record high C = 42.9
+ |Apr record high C = 44.4
+ |May record high C = 42.1
+ |Jun record high C = 36.7
+ |Jul record high C = 33.4
+ |Aug record high C = 31.8
+ |Sep record high C = 32.9
+ |Oct record high C = 34.2
+ |Nov record high C = 35.2
+ |Dec record high C = 35.4
+|year record high C = 44.4
+|Jan high C = 29.4
+ |Feb high C = 32.5
+ |Mar high C = 35.4
+ |Apr high C = 34.3
+ |May high C = 28.6
+ |Jun high C = 25.6
+ |Jul high C = 24.6
+ |Aug high C = 25.5
+ |Sep high C = 26.1
+ |Oct high C = 25.9
+ |Nov high C = 25.7
+ |Dec high C = 26.8
+|year high C = 28.3
+|Jan mean C = 22.4
+ |Feb mean C = 23.6
+ |Mar mean C = 23.6
+ |Apr mean C = 23.7
+ |May mean C = 22.5
+ |Jun mean C = 22.3
+ |Jul mean C = 21.6
+ |Aug mean C = 21.9
+ |Sep mean C = 23.1
+ |Oct mean C = 22.5
+ |Nov mean C = 22.3
+ |Dec mean C = 22.1
+|year mean C = 22.6
+|Jan low C = 19.1
+ |Feb low C = 19.7
+ |Mar low C = 20.3
+ |Apr low C = 20.5
+ |May low C = 20.3
+ |Jun low C = 20.0
+ |Jul low C = 19.4
+ |Aug low C = 19.7
+ |Sep low C = 19.9
+ |Oct low C = 20.2
+ |Nov low C = 19.9
+ |Dec low C = 19.4
+|year low C = 19.8
+|Jan record low C = 14.8
+ |Feb record low C = 14.5
+ |Mar record low C = 14.1
+ |Apr record low C = 14.4
+ |May record low C = 14.8
+ |Jun record low C = 14.1
+ |Jul record low C = 11.4
+ |Aug record low C = 11.7
+ |Sep record low C = 14.0
+ |Oct record low C = 14.3
+ |Nov record low C = 14.2
+ |Dec record low C = 14.8
+|year record low C = 11.4
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

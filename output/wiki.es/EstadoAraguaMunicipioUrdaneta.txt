@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Urdaneta, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 40.4
+ |Feb record high C = 44.7
+ |Mar record high C = 47.6
+ |Apr record high C = 49.4
+ |May record high C = 46.2
+ |Jun record high C = 39.6
+ |Jul record high C = 37.4
+ |Aug record high C = 32.3
+ |Sep record high C = 35.0
+ |Oct record high C = 35.3
+ |Nov record high C = 38.3
+ |Dec record high C = 40.0
+|year record high C = 49.4
+|Jan high C = 34.3
+ |Feb high C = 37.8
+ |Mar high C = 40.9
+ |Apr high C = 39.6
+ |May high C = 30.0
+ |Jun high C = 27.1
+ |Jul high C = 26.0
+ |Aug high C = 26.4
+ |Sep high C = 27.4
+ |Oct high C = 28.2
+ |Nov high C = 28.7
+ |Dec high C = 30.9
+|year high C = 31.4
+|Jan mean C = 23.5
+ |Feb mean C = 25.6
+ |Mar mean C = 24.6
+ |Apr mean C = 24.0
+ |May mean C = 23.8
+ |Jun mean C = 23.3
+ |Jul mean C = 23.2
+ |Aug mean C = 23.8
+ |Sep mean C = 24.3
+ |Oct mean C = 23.5
+ |Nov mean C = 23.6
+ |Dec mean C = 23.2
+|year mean C = 23.9
+|Jan low C = 21.0
+ |Feb low C = 22.0
+ |Mar low C = 23.1
+ |Apr low C = 23.3
+ |May low C = 22.9
+ |Jun low C = 21.8
+ |Jul low C = 21.4
+ |Aug low C = 21.6
+ |Sep low C = 21.7
+ |Oct low C = 21.7
+ |Nov low C = 21.5
+ |Dec low C = 20.9
+|year low C = 21.9
+|Jan record low C = 16.8
+ |Feb record low C = 17.3
+ |Mar record low C = 16.7
+ |Apr record low C = 16.3
+ |May record low C = 15.3
+ |Jun record low C = 15.1
+ |Jul record low C = 15.6
+ |Aug record low C = 16.8
+ |Sep record low C = 16.6
+ |Oct record low C = 17.5
+ |Nov record low C = 16.8
+ |Dec record low C = 15.6
+|year record low C = 15.1
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

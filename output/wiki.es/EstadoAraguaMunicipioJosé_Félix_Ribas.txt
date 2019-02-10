@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio José Félix Ribas, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 35.6
+ |Feb record high C = 40.2
+ |Mar record high C = 41.2
+ |Apr record high C = 42.5
+ |May record high C = 38.8
+ |Jun record high C = 36.5
+ |Jul record high C = 34.0
+ |Aug record high C = 32.5
+ |Sep record high C = 33.3
+ |Oct record high C = 34.0
+ |Nov record high C = 33.3
+ |Dec record high C = 33.1
+|year record high C = 42.5
+|Jan high C = 28.4
+ |Feb high C = 31.4
+ |Mar high C = 33.8
+ |Apr high C = 33.6
+ |May high C = 28.8
+ |Jun high C = 25.7
+ |Jul high C = 24.9
+ |Aug high C = 25.7
+ |Sep high C = 26.2
+ |Oct high C = 26.2
+ |Nov high C = 25.5
+ |Dec high C = 26.2
+|year high C = 28.0
+|Jan mean C = 20.3
+ |Feb mean C = 22.2
+ |Mar mean C = 22.0
+ |Apr mean C = 21.7
+ |May mean C = 21.4
+ |Jun mean C = 21.4
+ |Jul mean C = 20.6
+ |Aug mean C = 20.7
+ |Sep mean C = 21.7
+ |Oct mean C = 21.6
+ |Nov mean C = 20.8
+ |Dec mean C = 20.7
+|year mean C = 21.3
+|Jan low C = 17.6
+ |Feb low C = 18.0
+ |Mar low C = 18.7
+ |Apr low C = 19.1
+ |May low C = 19.2
+ |Jun low C = 18.7
+ |Jul low C = 18.6
+ |Aug low C = 18.7
+ |Sep low C = 18.9
+ |Oct low C = 19.1
+ |Nov low C = 18.6
+ |Dec low C = 17.9
+|year low C = 18.6
+|Jan record low C = 14.4
+ |Feb record low C = 14.5
+ |Mar record low C = 13.4
+ |Apr record low C = 13.1
+ |May record low C = 14.5
+ |Jun record low C = 13.0
+ |Jul record low C = 12.5
+ |Aug record low C = 13.9
+ |Sep record low C = 13.8
+ |Oct record low C = 13.5
+ |Nov record low C = 13.2
+ |Dec record low C = 14.0
+|year record low C = 12.5
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

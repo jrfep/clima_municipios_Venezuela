@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Mario Briceño Iragorry, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 36.4
+ |Feb record high C = 40.5
+ |Mar record high C = 45.4
+ |Apr record high C = 43.4
+ |May record high C = 39.5
+ |Jun record high C = 36.7
+ |Jul record high C = 38.2
+ |Aug record high C = 34.5
+ |Sep record high C = 35.9
+ |Oct record high C = 34.5
+ |Nov record high C = 34.7
+ |Dec record high C = 35.3
+|year record high C = 45.4
+|Jan high C = 21.6
+ |Feb high C = 22.6
+ |Mar high C = 23.4
+ |Apr high C = 22.2
+ |May high C = 22.1
+ |Jun high C = 22.8
+ |Jul high C = 22.2
+ |Aug high C = 23.0
+ |Sep high C = 22.5
+ |Oct high C = 22.3
+ |Nov high C = 21.0
+ |Dec high C = 21.4
+|year high C = 22.2
+|Jan mean C = 19.8
+ |Feb mean C = 20.5
+ |Mar mean C = 21.0
+ |Apr mean C = 20.3
+ |May mean C = 20.8
+ |Jun mean C = 20.0
+ |Jul mean C = 19.7
+ |Aug mean C = 20.2
+ |Sep mean C = 20.4
+ |Oct mean C = 20.2
+ |Nov mean C = 19.3
+ |Dec mean C = 19.6
+|year mean C = 20.1
+|Jan low C = 16.5
+ |Feb low C = 16.7
+ |Mar low C = 17.7
+ |Apr low C = 17.7
+ |May low C = 18.3
+ |Jun low C = 17.6
+ |Jul low C = 17.3
+ |Aug low C = 18.1
+ |Sep low C = 17.8
+ |Oct low C = 17.9
+ |Nov low C = 17.5
+ |Dec low C = 16.6
+|year low C = 17.5
+|Jan record low C = 13.5
+ |Feb record low C = 12.6
+ |Mar record low C = 12.5
+ |Apr record low C = 11.1
+ |May record low C = 11.1
+ |Jun record low C = 11.3
+ |Jul record low C = 13.2
+ |Aug record low C = 14.8
+ |Sep record low C = 14.1
+ |Oct record low C = 8.8
+ |Nov record low C = 13.3
+ |Dec record low C = 11.2
+|year record low C = 8.8
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}
