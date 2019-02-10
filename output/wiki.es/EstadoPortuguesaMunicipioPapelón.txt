@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Papelón, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 38.7
+ |Feb record high C = 41.4
+ |Mar record high C = 45.4
+ |Apr record high C = 44.5
+ |May record high C = 38.1
+ |Jun record high C = 31.6
+ |Jul record high C = 30.3
+ |Aug record high C = 31.2
+ |Sep record high C = 32.8
+ |Oct record high C = 33.1
+ |Nov record high C = 33.8
+ |Dec record high C = 35.8
+|year record high C = 45.4
+|Jan high C = 32.0
+ |Feb high C = 35.1
+ |Mar high C = 37.7
+ |Apr high C = 33.2
+ |May high C = 28.8
+ |Jun high C = 26.2
+ |Jul high C = 25.6
+ |Aug high C = 26.6
+ |Sep high C = 27.6
+ |Oct high C = 27.3
+ |Nov high C = 27.4
+ |Dec high C = 29.3
+|year high C = 29.7
+|Jan mean C = 24.6
+ |Feb mean C = 24.2
+ |Mar mean C = 24.2
+ |Apr mean C = 23.5
+ |May mean C = 23.9
+ |Jun mean C = 23.8
+ |Jul mean C = 23.3
+ |Aug mean C = 24.3
+ |Sep mean C = 24.6
+ |Oct mean C = 24.1
+ |Nov mean C = 24.2
+ |Dec mean C = 23.9
+|year mean C = 24.0
+|Jan low C = 21.5
+ |Feb low C = 22.5
+ |Mar low C = 23.1
+ |Apr low C = 23.1
+ |May low C = 22.8
+ |Jun low C = 22.1
+ |Jul low C = 22.2
+ |Aug low C = 22.3
+ |Sep low C = 22.7
+ |Oct low C = 22.7
+ |Nov low C = 22.4
+ |Dec low C = 21.8
+|year low C = 22.4
+|Jan record low C = 16.6
+ |Feb record low C = 18.0
+ |Mar record low C = 18.9
+ |Apr record low C = 17.2
+ |May record low C = 15.9
+ |Jun record low C = 13.2
+ |Jul record low C = 13.9
+ |Aug record low C = 16.3
+ |Sep record low C = 18.1
+ |Oct record low C = 17.9
+ |Nov record low C = 18.5
+ |Dec record low C = 17.1
+|year record low C = 13.2
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

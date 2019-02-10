@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio San Rafael de Onoto, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 37.5
+ |Feb record high C = 40.4
+ |Mar record high C = 45.1
+ |Apr record high C = 45.5
+ |May record high C = 36.3
+ |Jun record high C = 32.5
+ |Jul record high C = 29.5
+ |Aug record high C = 31.1
+ |Sep record high C = 33.9
+ |Oct record high C = 34.0
+ |Nov record high C = 32.9
+ |Dec record high C = 34.3
+|year record high C = 45.5
+|Jan high C = 29.9
+ |Feb high C = 33.1
+ |Mar high C = 35.4
+ |Apr high C = 33.0
+ |May high C = 27.8
+ |Jun high C = 25.5
+ |Jul high C = 25.2
+ |Aug high C = 26.3
+ |Sep high C = 26.9
+ |Oct high C = 27.6
+ |Nov high C = 26.9
+ |Dec high C = 27.6
+|year high C = 28.8
+|Jan mean C = 24.7
+ |Feb mean C = 24.2
+ |Mar mean C = 24.1
+ |Apr mean C = 23.2
+ |May mean C = 23.1
+ |Jun mean C = 22.8
+ |Jul mean C = 22.6
+ |Aug mean C = 23.2
+ |Sep mean C = 24.1
+ |Oct mean C = 24.1
+ |Nov mean C = 24.2
+ |Dec mean C = 23.6
+|year mean C = 23.7
+|Jan low C = 22.1
+ |Feb low C = 22.5
+ |Mar low C = 22.8
+ |Apr low C = 22.6
+ |May low C = 22.7
+ |Jun low C = 21.8
+ |Jul low C = 21.3
+ |Aug low C = 21.8
+ |Sep low C = 22.3
+ |Oct low C = 22.3
+ |Nov low C = 22.3
+ |Dec low C = 21.9
+|year low C = 22.2
+|Jan record low C = 17.0
+ |Feb record low C = 16.9
+ |Mar record low C = 18.2
+ |Apr record low C = 10.9
+ |May record low C = 17.5
+ |Jun record low C = 16.4
+ |Jul record low C = 10.7
+ |Aug record low C = 12.7
+ |Sep record low C = 17.1
+ |Oct record low C = 18.7
+ |Nov record low C = 18.7
+ |Dec record low C = 18.3
+|year record low C = 10.7
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}
