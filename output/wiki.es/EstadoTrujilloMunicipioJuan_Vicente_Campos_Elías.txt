@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Juan Vicente Campos Elías, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 24.8
+ |Feb record high C = 27.8
+ |Mar record high C = 29.7
+ |Apr record high C = 26.1
+ |May record high C = 24.8
+ |Jun record high C = 26.4
+ |Jul record high C = 25.9
+ |Aug record high C = 26.5
+ |Sep record high C = 26.0
+ |Oct record high C = 25.8
+ |Nov record high C = 24.5
+ |Dec record high C = 23.5
+|year record high C = 29.7
+|Jan high C = 21.5
+ |Feb high C = 22.2
+ |Mar high C = 23.1
+ |Apr high C = 21.3
+ |May high C = 20.7
+ |Jun high C = 20.5
+ |Jul high C = 20.8
+ |Aug high C = 21.3
+ |Sep high C = 22.3
+ |Oct high C = 21.8
+ |Nov high C = 21.0
+ |Dec high C = 20.4
+|year high C = 21.4
+|Jan mean C = 15.6
+ |Feb mean C = 16.4
+ |Mar mean C = 16.7
+ |Apr mean C = 16.7
+ |May mean C = 16.4
+ |Jun mean C = 15.5
+ |Jul mean C = 15.4
+ |Aug mean C = 16.9
+ |Sep mean C = 17.5
+ |Oct mean C = 18.5
+ |Nov mean C = 15.9
+ |Dec mean C = 15.7
+|year mean C = 16.4
+|Jan low C = 14.5
+ |Feb low C = 15.3
+ |Mar low C = 15.7
+ |Apr low C = 16.0
+ |May low C = 15.5
+ |Jun low C = 14.6
+ |Jul low C = 14.5
+ |Aug low C = 15.0
+ |Sep low C = 15.5
+ |Oct low C = 15.0
+ |Nov low C = 15.2
+ |Dec low C = 14.6
+|year low C = 15.1
+|Jan record low C = 11.3
+ |Feb record low C = 13.1
+ |Mar record low C = 9.8
+ |Apr record low C = 11.9
+ |May record low C = 11.6
+ |Jun record low C = 7.8
+ |Jul record low C = 11.1
+ |Aug record low C = 6.0
+ |Sep record low C = 13.2
+ |Oct record low C = 3.1
+ |Nov record low C = 8.5
+ |Dec record low C = 12.6
+|year record low C = 3.1
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

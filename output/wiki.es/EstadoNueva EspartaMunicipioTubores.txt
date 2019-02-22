@@ -1,0 +1,4 @@
+{{clima
+|location = Municipio Tubores, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y

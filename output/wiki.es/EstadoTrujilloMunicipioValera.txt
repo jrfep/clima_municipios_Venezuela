@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Valera, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 33.2
+ |Feb record high C = 34.8
+ |Mar record high C = 35.7
+ |Apr record high C = 34.1
+ |May record high C = 33.1
+ |Jun record high C = 33.9
+ |Jul record high C = 33.6
+ |Aug record high C = 34.6
+ |Sep record high C = 34.6
+ |Oct record high C = 32.3
+ |Nov record high C = 31.5
+ |Dec record high C = 32.2
+|year record high C = 35.7
+|Jan high C = 24.1
+ |Feb high C = 25.1
+ |Mar high C = 25.5
+ |Apr high C = 22.4
+ |May high C = 22.9
+ |Jun high C = 23.2
+ |Jul high C = 23.5
+ |Aug high C = 24.8
+ |Sep high C = 24.6
+ |Oct high C = 23.1
+ |Nov high C = 22.5
+ |Dec high C = 22.8
+|year high C = 23.7
+|Jan mean C = 19.5
+ |Feb mean C = 20.0
+ |Mar mean C = 19.0
+ |Apr mean C = 17.6
+ |May mean C = 18.4
+ |Jun mean C = 19.2
+ |Jul mean C = 19.2
+ |Aug mean C = 20.2
+ |Sep mean C = 20.6
+ |Oct mean C = 18.7
+ |Nov mean C = 18.3
+ |Dec mean C = 18.5
+|year mean C = 19.1
+|Jan low C = 15.6
+ |Feb low C = 15.7
+ |Mar low C = 16.1
+ |Apr low C = 15.9
+ |May low C = 16.1
+ |Jun low C = 16.0
+ |Jul low C = 16.7
+ |Aug low C = 16.1
+ |Sep low C = 16.5
+ |Oct low C = 14.8
+ |Nov low C = 15.9
+ |Dec low C = 15.5
+|year low C = 15.9
+|Jan record low C = 4.0
+ |Feb record low C = 4.5
+ |Mar record low C = 4.2
+ |Apr record low C = 2.0
+ |May record low C = -0.5
+ |Jun record low C = 1.1
+ |Jul record low C = 3.3
+ |Aug record low C = 0.8
+ |Sep record low C = 2.0
+ |Oct record low C = -3.4
+ |Nov record low C = -0.5
+ |Dec record low C = 4.3
+|year record low C = -3.4
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

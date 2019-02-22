@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio San Rafael de Carvajal, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 34.2
+ |Feb record high C = 36.3
+ |Mar record high C = 38.0
+ |Apr record high C = 35.9
+ |May record high C = 33.9
+ |Jun record high C = 33.3
+ |Jul record high C = 34.9
+ |Aug record high C = 36.4
+ |Sep record high C = 36.2
+ |Oct record high C = 32.9
+ |Nov record high C = 31.1
+ |Dec record high C = 32.2
+|year record high C = 38.0
+|Jan high C = 27.8
+ |Feb high C = 30.2
+ |Mar high C = 30.2
+ |Apr high C = 28.2
+ |May high C = 28.7
+ |Jun high C = 28.8
+ |Jul high C = 29.1
+ |Aug high C = 29.5
+ |Sep high C = 29.2
+ |Oct high C = 28.1
+ |Nov high C = 26.8
+ |Dec high C = 26.6
+|year high C = 28.6
+|Jan mean C = 24.9
+ |Feb mean C = 25.7
+ |Mar mean C = 24.0
+ |Apr mean C = 22.7
+ |May mean C = 23.6
+ |Jun mean C = 24.0
+ |Jul mean C = 23.6
+ |Aug mean C = 26.8
+ |Sep mean C = 27.2
+ |Oct mean C = 26.0
+ |Nov mean C = 24.3
+ |Dec mean C = 24.0
+|year mean C = 24.7
+|Jan low C = 20.8
+ |Feb low C = 21.5
+ |Mar low C = 21.7
+ |Apr low C = 21.4
+ |May low C = 22.4
+ |Jun low C = 22.1
+ |Jul low C = 21.9
+ |Aug low C = 22.2
+ |Sep low C = 22.3
+ |Oct low C = 21.1
+ |Nov low C = 21.3
+ |Dec low C = 20.8
+|year low C = 21.6
+|Jan record low C = 12.9
+ |Feb record low C = 12.1
+ |Mar record low C = 3.3
+ |Apr record low C = 15.3
+ |May record low C = 12.3
+ |Jun record low C = 14.1
+ |Jul record low C = 15.3
+ |Aug record low C = 12.8
+ |Sep record low C = 16.6
+ |Oct record low C = 13.0
+ |Nov record low C = 9.6
+ |Dec record low C = 12.4
+|year record low C = 3.3
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Boconó, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 31.6
+ |Feb record high C = 33.5
+ |Mar record high C = 35.6
+ |Apr record high C = 34.3
+ |May record high C = 31.7
+ |Jun record high C = 31.9
+ |Jul record high C = 32.9
+ |Aug record high C = 34.2
+ |Sep record high C = 33.5
+ |Oct record high C = 33.1
+ |Nov record high C = 30.2
+ |Dec record high C = 30.2
+|year record high C = 35.6
+|Jan high C = 22.9
+ |Feb high C = 24.5
+ |Mar high C = 25.5
+ |Apr high C = 23.3
+ |May high C = 22.6
+ |Jun high C = 20.7
+ |Jul high C = 21.2
+ |Aug high C = 22.3
+ |Sep high C = 23.2
+ |Oct high C = 22.5
+ |Nov high C = 21.5
+ |Dec high C = 21.6
+|year high C = 22.7
+|Jan mean C = 16.4
+ |Feb mean C = 16.8
+ |Mar mean C = 16.5
+ |Apr mean C = 15.5
+ |May mean C = 15.2
+ |Jun mean C = 15.1
+ |Jul mean C = 15.2
+ |Aug mean C = 16.4
+ |Sep mean C = 17.3
+ |Oct mean C = 16.9
+ |Nov mean C = 15.5
+ |Dec mean C = 15.7
+|year mean C = 16.0
+|Jan low C = 12.1
+ |Feb low C = 12.7
+ |Mar low C = 13.0
+ |Apr low C = 12.3
+ |May low C = 12.5
+ |Jun low C = 12.2
+ |Jul low C = 12.3
+ |Aug low C = 12.6
+ |Sep low C = 13.0
+ |Oct low C = 12.8
+ |Nov low C = 12.7
+ |Dec low C = 12.3
+|year low C = 12.5
+|Jan record low C = 1.0
+ |Feb record low C = 1.8
+ |Mar record low C = 1.8
+ |Apr record low C = -1.7
+ |May record low C = -3.1
+ |Jun record low C = -4.5
+ |Jul record low C = -0.4
+ |Aug record low C = -2.6
+ |Sep record low C = -1.1
+ |Oct record low C = -0.4
+ |Nov record low C = 0.9
+ |Dec record low C = 2.2
+|year record low C = -4.5
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Sucre, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 40.2
+ |Feb record high C = 42.3
+ |Mar record high C = 42.6
+ |Apr record high C = 36.4
+ |May record high C = 36.7
+ |Jun record high C = 36.5
+ |Jul record high C = 39.0
+ |Aug record high C = 40.0
+ |Sep record high C = 36.7
+ |Oct record high C = 34.4
+ |Nov record high C = 36.2
+ |Dec record high C = 36.8
+|year record high C = 42.6
+|Jan high C = 30.5
+ |Feb high C = 33.2
+ |Mar high C = 33.1
+ |Apr high C = 30.2
+ |May high C = 30.5
+ |Jun high C = 30.9
+ |Jul high C = 31.6
+ |Aug high C = 31.5
+ |Sep high C = 31.9
+ |Oct high C = 30.2
+ |Nov high C = 29.2
+ |Dec high C = 28.9
+|year high C = 31.0
+|Jan mean C = 26.7
+ |Feb mean C = 24.8
+ |Mar mean C = 24.4
+ |Apr mean C = 23.8
+ |May mean C = 25.2
+ |Jun mean C = 26.2
+ |Jul mean C = 24.3
+ |Aug mean C = 26.5
+ |Sep mean C = 27.9
+ |Oct mean C = 26.2
+ |Nov mean C = 25.7
+ |Dec mean C = 26.4
+|year mean C = 25.7
+|Jan low C = 21.9
+ |Feb low C = 22.4
+ |Mar low C = 22.9
+ |Apr low C = 22.7
+ |May low C = 22.7
+ |Jun low C = 23.2
+ |Jul low C = 23.2
+ |Aug low C = 23.5
+ |Sep low C = 23.9
+ |Oct low C = 22.2
+ |Nov low C = 22.5
+ |Dec low C = 21.3
+|year low C = 22.7
+|Jan record low C = 12.2
+ |Feb record low C = 15.3
+ |Mar record low C = 13.0
+ |Apr record low C = 15.3
+ |May record low C = 16.0
+ |Jun record low C = 16.1
+ |Jul record low C = 13.3
+ |Aug record low C = 14.7
+ |Sep record low C = 15.4
+ |Oct record low C = 12.6
+ |Nov record low C = 6.1
+ |Dec record low C = 11.4
+|year record low C = 6.1
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

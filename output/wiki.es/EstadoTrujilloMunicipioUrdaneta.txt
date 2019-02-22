@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Urdaneta, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 31.7
+ |Feb record high C = 33.7
+ |Mar record high C = 35.0
+ |Apr record high C = 34.2
+ |May record high C = 32.5
+ |Jun record high C = 31.3
+ |Jul record high C = 32.9
+ |Aug record high C = 34.3
+ |Sep record high C = 33.7
+ |Oct record high C = 31.9
+ |Nov record high C = 29.7
+ |Dec record high C = 30.4
+|year record high C = 35.0
+|Jan high C = 24.5
+ |Feb high C = 25.9
+ |Mar high C = 26.3
+ |Apr high C = 24.3
+ |May high C = 24.2
+ |Jun high C = 23.8
+ |Jul high C = 23.9
+ |Aug high C = 24.8
+ |Sep high C = 25.2
+ |Oct high C = 23.6
+ |Nov high C = 22.9
+ |Dec high C = 22.9
+|year high C = 24.4
+|Jan mean C = 18.5
+ |Feb mean C = 18.9
+ |Mar mean C = 18.2
+ |Apr mean C = 17.8
+ |May mean C = 18.4
+ |Jun mean C = 18.7
+ |Jul mean C = 18.3
+ |Aug mean C = 19.9
+ |Sep mean C = 20.2
+ |Oct mean C = 19.3
+ |Nov mean C = 18.0
+ |Dec mean C = 17.8
+|year mean C = 18.7
+|Jan low C = 13.6
+ |Feb low C = 14.2
+ |Mar low C = 14.6
+ |Apr low C = 14.7
+ |May low C = 14.7
+ |Jun low C = 14.6
+ |Jul low C = 14.8
+ |Aug low C = 14.6
+ |Sep low C = 14.9
+ |Oct low C = 14.0
+ |Nov low C = 14.2
+ |Dec low C = 13.8
+|year low C = 14.4
+|Jan record low C = 4.1
+ |Feb record low C = 5.3
+ |Mar record low C = 4.4
+ |Apr record low C = 3.5
+ |May record low C = -4.0
+ |Jun record low C = -0.5
+ |Jul record low C = 3.0
+ |Aug record low C = 2.5
+ |Sep record low C = 2.9
+ |Oct record low C = 2.5
+ |Nov record low C = -1.2
+ |Dec record low C = 4.9
+|year record low C = -4.0
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

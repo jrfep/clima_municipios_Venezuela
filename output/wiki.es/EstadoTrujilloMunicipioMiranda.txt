@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Miranda, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 41.0
+ |Feb record high C = 43.5
+ |Mar record high C = 43.3
+ |Apr record high C = 39.9
+ |May record high C = 38.1
+ |Jun record high C = 37.7
+ |Jul record high C = 39.9
+ |Aug record high C = 41.1
+ |Sep record high C = 38.6
+ |Oct record high C = 35.6
+ |Nov record high C = 36.6
+ |Dec record high C = 37.4
+|year record high C = 43.5
+|Jan high C = 30.3
+ |Feb high C = 33.3
+ |Mar high C = 32.3
+ |Apr high C = 30.4
+ |May high C = 30.8
+ |Jun high C = 31.0
+ |Jul high C = 31.6
+ |Aug high C = 31.4
+ |Sep high C = 31.2
+ |Oct high C = 29.7
+ |Nov high C = 28.3
+ |Dec high C = 28.3
+|year high C = 30.7
+|Jan mean C = 26.2
+ |Feb mean C = 25.8
+ |Mar mean C = 24.5
+ |Apr mean C = 24.1
+ |May mean C = 26.3
+ |Jun mean C = 27.2
+ |Jul mean C = 24.9
+ |Aug mean C = 28.0
+ |Sep mean C = 28.6
+ |Oct mean C = 27.4
+ |Nov mean C = 25.7
+ |Dec mean C = 25.7
+|year mean C = 26.2
+|Jan low C = 21.7
+ |Feb low C = 22.2
+ |Mar low C = 22.9
+ |Apr low C = 22.6
+ |May low C = 22.9
+ |Jun low C = 23.0
+ |Jul low C = 23.3
+ |Aug low C = 23.6
+ |Sep low C = 23.6
+ |Oct low C = 22.2
+ |Nov low C = 22.2
+ |Dec low C = 21.4
+|year low C = 22.6
+|Jan record low C = 12.0
+ |Feb record low C = 13.3
+ |Mar record low C = 13.1
+ |Apr record low C = 12.4
+ |May record low C = 13.3
+ |Jun record low C = 12.2
+ |Jul record low C = 14.7
+ |Aug record low C = 13.8
+ |Sep record low C = 14.5
+ |Oct record low C = 12.3
+ |Nov record low C = 5.7
+ |Dec record low C = 11.7
+|year record low C = 5.7
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}
