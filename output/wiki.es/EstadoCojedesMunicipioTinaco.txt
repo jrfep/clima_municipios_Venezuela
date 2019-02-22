@@ -27,3 +27,53 @@
  |Nov high C = 28.1
  |Dec high C = 29.9
 |year high C = 31.1
+|Jan mean C = 26.7
+ |Feb mean C = 25.7
+ |Mar mean C = 25.1
+ |Apr mean C = 24.4
+ |May mean C = 24.0
+ |Jun mean C = 24.3
+ |Jul mean C = 23.6
+ |Aug mean C = 24.0
+ |Sep mean C = 25.0
+ |Oct mean C = 25.1
+ |Nov mean C = 24.7
+ |Dec mean C = 24.8
+|year mean C = 24.8
+|Jan low C = 21.9
+ |Feb low C = 22.9
+ |Mar low C = 23.7
+ |Apr low C = 23.4
+ |May low C = 22.8
+ |Jun low C = 22.0
+ |Jul low C = 21.9
+ |Aug low C = 21.9
+ |Sep low C = 22.3
+ |Oct low C = 22.3
+ |Nov low C = 21.8
+ |Dec low C = 21.6
+|year low C = 22.4
+|Jan record low C = 17.8
+ |Feb record low C = 18.8
+ |Mar record low C = 18.7
+ |Apr record low C = 16.5
+ |May record low C = 14.9
+ |Jun record low C = 13.2
+ |Jul record low C = 15.7
+ |Aug record low C = 16.9
+ |Sep record low C = 15.5
+ |Oct record low C = 16.6
+ |Nov record low C = 14.6
+ |Dec record low C = 17.2
+|year record low C = 13.2
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

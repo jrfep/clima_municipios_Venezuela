@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Bruzual, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 38.2
+ |Feb record high C = 42.3
+ |Mar record high C = 44.9
+ |Apr record high C = 45.3
+ |May record high C = 44.6
+ |Jun record high C = 40.3
+ |Jul record high C = 32.6
+ |Aug record high C = 33.9
+ |Sep record high C = 35.9
+ |Oct record high C = 37.3
+ |Nov record high C = 36.6
+ |Dec record high C = 35.8
+|year record high C = 45.3
+|Jan high C = 30.3
+ |Feb high C = 33.6
+ |Mar high C = 36.3
+ |Apr high C = 36.6
+ |May high C = 32.8
+ |Jun high C = 27.8
+ |Jul high C = 26.1
+ |Aug high C = 26.7
+ |Sep high C = 27.8
+ |Oct high C = 27.6
+ |Nov high C = 27.4
+ |Dec high C = 28.4
+|year high C = 30.1
+|Jan mean C = 24.0
+ |Feb mean C = 24.6
+ |Mar mean C = 24.1
+ |Apr mean C = 24.0
+ |May mean C = 24.0
+ |Jun mean C = 24.5
+ |Jul mean C = 24.1
+ |Aug mean C = 25.0
+ |Sep mean C = 25.5
+ |Oct mean C = 24.6
+ |Nov mean C = 24.5
+ |Dec mean C = 24.0
+|year mean C = 24.4
+|Jan low C = 22.3
+ |Feb low C = 22.7
+ |Mar low C = 22.6
+ |Apr low C = 23.1
+ |May low C = 22.9
+ |Jun low C = 22.2
+ |Jul low C = 22.1
+ |Aug low C = 22.6
+ |Sep low C = 22.6
+ |Oct low C = 22.9
+ |Nov low C = 22.6
+ |Dec low C = 22.3
+|year low C = 22.6
+|Jan record low C = 16.0
+ |Feb record low C = 16.3
+ |Mar record low C = 16.3
+ |Apr record low C = 16.3
+ |May record low C = 16.4
+ |Jun record low C = 14.4
+ |Jul record low C = 14.6
+ |Aug record low C = 15.3
+ |Sep record low C = 17.8
+ |Oct record low C = 17.6
+ |Nov record low C = 15.6
+ |Dec record low C = 15.9
+|year record low C = 14.4
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

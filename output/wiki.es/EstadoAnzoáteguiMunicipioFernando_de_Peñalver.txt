@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Fernando de Peñalver, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 38.8
+ |Feb record high C = 42.0
+ |Mar record high C = 44.8
+ |Apr record high C = 45.5
+ |May record high C = 45.2
+ |Jun record high C = 39.7
+ |Jul record high C = 35.2
+ |Aug record high C = 36.0
+ |Sep record high C = 37.0
+ |Oct record high C = 36.9
+ |Nov record high C = 36.5
+ |Dec record high C = 37.1
+|year record high C = 45.5
+|Jan high C = 30.1
+ |Feb high C = 32.9
+ |Mar high C = 35.1
+ |Apr high C = 34.2
+ |May high C = 31.9
+ |Jun high C = 28.0
+ |Jul high C = 26.7
+ |Aug high C = 27.1
+ |Sep high C = 28.1
+ |Oct high C = 27.7
+ |Nov high C = 27.7
+ |Dec high C = 28.5
+|year high C = 29.8
+|Jan mean C = 24.8
+ |Feb mean C = 25.5
+ |Mar mean C = 24.9
+ |Apr mean C = 24.7
+ |May mean C = 24.8
+ |Jun mean C = 25.1
+ |Jul mean C = 24.8
+ |Aug mean C = 25.7
+ |Sep mean C = 26.1
+ |Oct mean C = 25.6
+ |Nov mean C = 25.6
+ |Dec mean C = 25.0
+|year mean C = 25.2
+|Jan low C = 22.4
+ |Feb low C = 22.9
+ |Mar low C = 22.9
+ |Apr low C = 23.5
+ |May low C = 23.3
+ |Jun low C = 22.5
+ |Jul low C = 22.3
+ |Aug low C = 23.0
+ |Sep low C = 23.3
+ |Oct low C = 23.3
+ |Nov low C = 23.0
+ |Dec low C = 22.7
+|year low C = 22.9
+|Jan record low C = 16.0
+ |Feb record low C = 16.4
+ |Mar record low C = 16.8
+ |Apr record low C = 16.5
+ |May record low C = 16.2
+ |Jun record low C = 16.1
+ |Jul record low C = 15.5
+ |Aug record low C = 17.0
+ |Sep record low C = 19.1
+ |Oct record low C = 18.0
+ |Nov record low C = 15.0
+ |Dec record low C = 16.2
+|year record low C = 15.0
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}
