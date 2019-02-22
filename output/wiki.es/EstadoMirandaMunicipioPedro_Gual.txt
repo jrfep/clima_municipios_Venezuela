@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Pedro Gual, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 32.5
+ |Feb record high C = 34.3
+ |Mar record high C = 37.3
+ |Apr record high C = 39.4
+ |May record high C = 37.7
+ |Jun record high C = 35.1
+ |Jul record high C = 34.9
+ |Aug record high C = 32.3
+ |Sep record high C = 34.0
+ |Oct record high C = 32.4
+ |Nov record high C = 30.6
+ |Dec record high C = 30.7
+|year record high C = 39.4
+|Jan high C = 24.3
+ |Feb high C = 25.7
+ |Mar high C = 27.8
+ |Apr high C = 28.2
+ |May high C = 27.9
+ |Jun high C = 26.0
+ |Jul high C = 24.9
+ |Aug high C = 25.8
+ |Sep high C = 26.5
+ |Oct high C = 25.5
+ |Nov high C = 24.7
+ |Dec high C = 24.1
+|year high C = 26.0
+|Jan mean C = 22.7
+ |Feb mean C = 23.6
+ |Mar mean C = 24.1
+ |Apr mean C = 24.5
+ |May mean C = 25.1
+ |Jun mean C = 24.2
+ |Jul mean C = 23.4
+ |Aug mean C = 24.1
+ |Sep mean C = 24.6
+ |Oct mean C = 23.6
+ |Nov mean C = 23.2
+ |Dec mean C = 22.8
+|year mean C = 23.8
+|Jan low C = 19.5
+ |Feb low C = 19.9
+ |Mar low C = 20.5
+ |Apr low C = 21.2
+ |May low C = 20.9
+ |Jun low C = 20.9
+ |Jul low C = 20.6
+ |Aug low C = 21.6
+ |Sep low C = 21.8
+ |Oct low C = 21.5
+ |Nov low C = 20.9
+ |Dec low C = 19.8
+|year low C = 20.8
+|Jan record low C = 9.1
+ |Feb record low C = 11.9
+ |Mar record low C = 12.2
+ |Apr record low C = 13.5
+ |May record low C = 14.7
+ |Jun record low C = 8.7
+ |Jul record low C = 13.3
+ |Aug record low C = 15.3
+ |Sep record low C = 16.8
+ |Oct record low C = 16.0
+ |Nov record low C = 10.5
+ |Dec record low C = 11.7
+|year record low C = 8.7
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

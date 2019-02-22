@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Baruta, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 31.8
+ |Feb record high C = 34.9
+ |Mar record high C = 38.0
+ |Apr record high C = 36.9
+ |May record high C = 36.9
+ |Jun record high C = 32.6
+ |Jul record high C = 33.1
+ |Aug record high C = 33.8
+ |Sep record high C = 35.9
+ |Oct record high C = 34.5
+ |Nov record high C = 31.9
+ |Dec record high C = 30.2
+|year record high C = 38.0
+|Jan high C = 25.2
+ |Feb high C = 26.8
+ |Mar high C = 29.1
+ |Apr high C = 28.1
+ |May high C = 26.3
+ |Jun high C = 24.6
+ |Jul high C = 23.9
+ |Aug high C = 24.7
+ |Sep high C = 25.1
+ |Oct high C = 25.2
+ |Nov high C = 23.9
+ |Dec high C = 23.7
+|year high C = 25.5
+|Jan mean C = 18.4
+ |Feb mean C = 19.8
+ |Mar mean C = 19.7
+ |Apr mean C = 20.1
+ |May mean C = 20.1
+ |Jun mean C = 20.7
+ |Jul mean C = 20.0
+ |Aug mean C = 20.3
+ |Sep mean C = 21.1
+ |Oct mean C = 20.7
+ |Nov mean C = 19.8
+ |Dec mean C = 18.9
+|year mean C = 20.0
+|Jan low C = 16.5
+ |Feb low C = 16.7
+ |Mar low C = 17.5
+ |Apr low C = 18.3
+ |May low C = 18.6
+ |Jun low C = 18.5
+ |Jul low C = 18.1
+ |Aug low C = 18.9
+ |Sep low C = 19.1
+ |Oct low C = 18.9
+ |Nov low C = 18.1
+ |Dec low C = 17.0
+|year low C = 18.0
+|Jan record low C = 14.3
+ |Feb record low C = 13.6
+ |Mar record low C = 13.7
+ |Apr record low C = 14.3
+ |May record low C = 13.8
+ |Jun record low C = 13.8
+ |Jul record low C = 10.3
+ |Aug record low C = 15.8
+ |Sep record low C = 15.2
+ |Oct record low C = 13.7
+ |Nov record low C = 14.9
+ |Dec record low C = 13.8
+|year record low C = 10.3
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

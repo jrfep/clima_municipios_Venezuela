@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Buroz, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 33.2
+ |Feb record high C = 35.3
+ |Mar record high C = 36.5
+ |Apr record high C = 37.2
+ |May record high C = 35.7
+ |Jun record high C = 34.1
+ |Jul record high C = 33.3
+ |Aug record high C = 32.5
+ |Sep record high C = 32.6
+ |Oct record high C = 32.3
+ |Nov record high C = 30.9
+ |Dec record high C = 31.1
+|year record high C = 37.2
+|Jan high C = 24.8
+ |Feb high C = 25.9
+ |Mar high C = 27.6
+ |Apr high C = 28.0
+ |May high C = 28.3
+ |Jun high C = 26.7
+ |Jul high C = 26.2
+ |Aug high C = 27.5
+ |Sep high C = 27.9
+ |Oct high C = 26.8
+ |Nov high C = 25.7
+ |Dec high C = 24.8
+|year high C = 26.7
+|Jan mean C = 22.9
+ |Feb mean C = 23.4
+ |Mar mean C = 23.8
+ |Apr mean C = 23.5
+ |May mean C = 26.0
+ |Jun mean C = 24.3
+ |Jul mean C = 24.1
+ |Aug mean C = 25.5
+ |Sep mean C = 25.9
+ |Oct mean C = 24.8
+ |Nov mean C = 23.8
+ |Dec mean C = 22.8
+|year mean C = 24.2
+|Jan low C = 19.9
+ |Feb low C = 20.2
+ |Mar low C = 20.6
+ |Apr low C = 21.3
+ |May low C = 21.1
+ |Jun low C = 21.3
+ |Jul low C = 21.0
+ |Aug low C = 22.4
+ |Sep low C = 22.3
+ |Oct low C = 22.2
+ |Nov low C = 21.1
+ |Dec low C = 20.3
+|year low C = 21.1
+|Jan record low C = 14.0
+ |Feb record low C = 13.8
+ |Mar record low C = 13.2
+ |Apr record low C = 14.4
+ |May record low C = 14.6
+ |Jun record low C = 12.7
+ |Jul record low C = 12.1
+ |Aug record low C = 16.0
+ |Sep record low C = 16.6
+ |Oct record low C = 12.6
+ |Nov record low C = 10.9
+ |Dec record low C = 10.0
+|year record low C = 10.0
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Páez, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 30.9
+ |Feb record high C = 32.7
+ |Mar record high C = 35.9
+ |Apr record high C = 37.2
+ |May record high C = 36.5
+ |Jun record high C = 32.9
+ |Jul record high C = 32.5
+ |Aug record high C = 32.1
+ |Sep record high C = 32.5
+ |Oct record high C = 32.6
+ |Nov record high C = 29.4
+ |Dec record high C = 29.4
+|year record high C = 37.2
+|Jan high C = 24.7
+ |Feb high C = 25.5
+ |Mar high C = 27.0
+ |Apr high C = 27.4
+ |May high C = 27.5
+ |Jun high C = 26.2
+ |Jul high C = 25.5
+ |Aug high C = 26.6
+ |Sep high C = 27.1
+ |Oct high C = 26.2
+ |Nov high C = 25.1
+ |Dec high C = 24.4
+|year high C = 26.1
+|Jan mean C = 22.8
+ |Feb mean C = 23.3
+ |Mar mean C = 23.5
+ |Apr mean C = 24.2
+ |May mean C = 25.3
+ |Jun mean C = 24.3
+ |Jul mean C = 23.7
+ |Aug mean C = 24.4
+ |Sep mean C = 24.8
+ |Oct mean C = 24.3
+ |Nov mean C = 23.4
+ |Dec mean C = 22.8
+|year mean C = 23.9
+|Jan low C = 19.8
+ |Feb low C = 19.8
+ |Mar low C = 20.4
+ |Apr low C = 21.3
+ |May low C = 20.8
+ |Jun low C = 20.9
+ |Jul low C = 20.9
+ |Aug low C = 22.0
+ |Sep low C = 22.0
+ |Oct low C = 22.0
+ |Nov low C = 21.1
+ |Dec low C = 20.2
+|year low C = 20.9
+|Jan record low C = 9.9
+ |Feb record low C = 8.6
+ |Mar record low C = 11.3
+ |Apr record low C = 9.3
+ |May record low C = 13.5
+ |Jun record low C = 9.6
+ |Jul record low C = 11.1
+ |Aug record low C = 12.6
+ |Sep record low C = 14.4
+ |Oct record low C = 14.4
+ |Nov record low C = 10.6
+ |Dec record low C = 8.9
+|year record low C = 8.6
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

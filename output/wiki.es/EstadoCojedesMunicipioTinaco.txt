@@ -1,0 +1,29 @@
+{{clima
+|location = Municipio Tinaco, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 42.5
+ |Feb record high C = 45.9
+ |Mar record high C = 49.4
+ |Apr record high C = 49.3
+ |May record high C = 40.5
+ |Jun record high C = 35.8
+ |Jul record high C = 33.7
+ |Aug record high C = 32.2
+ |Sep record high C = 34.0
+ |Oct record high C = 34.3
+ |Nov record high C = 34.0
+ |Dec record high C = 37.2
+|year record high C = 49.4
+|Jan high C = 33.6
+ |Feb high C = 37.5
+ |Mar high C = 39.6
+ |Apr high C = 36.6
+ |May high C = 31.4
+ |Jun high C = 27.2
+ |Jul high C = 26.4
+ |Aug high C = 27.1
+ |Sep high C = 27.8
+ |Oct high C = 28.3
+ |Nov high C = 28.1
+ |Dec high C = 29.9
+|year high C = 31.1

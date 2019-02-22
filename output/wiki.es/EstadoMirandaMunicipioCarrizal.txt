@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Carrizal, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 28.8
+ |Feb record high C = 32.2
+ |Mar record high C = 34.5
+ |Apr record high C = 33.9
+ |May record high C = 33.5
+ |Jun record high C = 27.9
+ |Jul record high C = 28.0
+ |Aug record high C = 28.9
+ |Sep record high C = 29.5
+ |Oct record high C = 29.5
+ |Nov record high C = 26.2
+ |Dec record high C = 26.2
+|year record high C = 34.5
+|Jan high C = 22.6
+ |Feb high C = 24.4
+ |Mar high C = 26.8
+ |Apr high C = 26.5
+ |May high C = 24.9
+ |Jun high C = 22.6
+ |Jul high C = 22.4
+ |Aug high C = 23.3
+ |Sep high C = 24.1
+ |Oct high C = 23.8
+ |Nov high C = 22.8
+ |Dec high C = 22.2
+|year high C = 23.9
+|Jan mean C = 16.6
+ |Feb mean C = 17.9
+ |Mar mean C = 17.8
+ |Apr mean C = 18.0
+ |May mean C = 18.2
+ |Jun mean C = 18.3
+ |Jul mean C = 17.3
+ |Aug mean C = 18.2
+ |Sep mean C = 19.9
+ |Oct mean C = 18.4
+ |Nov mean C = 17.5
+ |Dec mean C = 16.9
+|year mean C = 17.9
+|Jan low C = 14.7
+ |Feb low C = 14.8
+ |Mar low C = 15.6
+ |Apr low C = 16.4
+ |May low C = 16.5
+ |Jun low C = 16.4
+ |Jul low C = 16.3
+ |Aug low C = 16.9
+ |Sep low C = 16.9
+ |Oct low C = 16.9
+ |Nov low C = 16.4
+ |Dec low C = 15.4
+|year low C = 16.1
+|Jan record low C = 12.8
+ |Feb record low C = 11.5
+ |Mar record low C = 11.8
+ |Apr record low C = 12.6
+ |May record low C = 8.9
+ |Jun record low C = 12.6
+ |Jul record low C = 10.8
+ |Aug record low C = 13.9
+ |Sep record low C = 13.9
+ |Oct record low C = 14.1
+ |Nov record low C = 14.0
+ |Dec record low C = 12.6
+|year record low C = 8.9
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

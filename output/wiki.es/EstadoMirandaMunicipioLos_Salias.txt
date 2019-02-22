@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Los Salias, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 29.5
+ |Feb record high C = 33.3
+ |Mar record high C = 36.1
+ |Apr record high C = 36.3
+ |May record high C = 35.1
+ |Jun record high C = 29.8
+ |Jul record high C = 29.0
+ |Aug record high C = 29.8
+ |Sep record high C = 29.5
+ |Oct record high C = 29.9
+ |Nov record high C = 28.0
+ |Dec record high C = 27.5
+|year record high C = 36.3
+|Jan high C = 23.2
+ |Feb high C = 24.9
+ |Mar high C = 27.1
+ |Apr high C = 27.3
+ |May high C = 25.3
+ |Jun high C = 23.6
+ |Jul high C = 23.0
+ |Aug high C = 24.1
+ |Sep high C = 24.5
+ |Oct high C = 24.0
+ |Nov high C = 23.1
+ |Dec high C = 22.2
+|year high C = 24.3
+|Jan mean C = 17.2
+ |Feb mean C = 20.1
+ |Mar mean C = 18.3
+ |Apr mean C = 19.5
+ |May mean C = 19.1
+ |Jun mean C = 19.6
+ |Jul mean C = 19.0
+ |Aug mean C = 19.4
+ |Sep mean C = 21.2
+ |Oct mean C = 19.8
+ |Nov mean C = 18.4
+ |Dec mean C = 17.7
+|year mean C = 19.1
+|Jan low C = 15.4
+ |Feb low C = 15.4
+ |Mar low C = 16.1
+ |Apr low C = 17.0
+ |May low C = 17.3
+ |Jun low C = 17.2
+ |Jul low C = 16.9
+ |Aug low C = 17.6
+ |Sep low C = 17.6
+ |Oct low C = 17.5
+ |Nov low C = 17.0
+ |Dec low C = 15.9
+|year low C = 16.7
+|Jan record low C = 13.0
+ |Feb record low C = 12.6
+ |Mar record low C = 12.3
+ |Apr record low C = 14.2
+ |May record low C = 13.8
+ |Jun record low C = 14.0
+ |Jul record low C = 12.7
+ |Aug record low C = 12.7
+ |Sep record low C = 14.5
+ |Oct record low C = 11.8
+ |Nov record low C = 14.0
+ |Dec record low C = 13.1
+|year record low C = 11.8
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}
