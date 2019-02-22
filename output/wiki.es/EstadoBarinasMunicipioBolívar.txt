@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Bolívar, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 32.0
+ |Feb record high C = 34.1
+ |Mar record high C = 35.4
+ |Apr record high C = 32.6
+ |May record high C = 31.6
+ |Jun record high C = 29.4
+ |Jul record high C = 29.5
+ |Aug record high C = 29.9
+ |Sep record high C = 30.4
+ |Oct record high C = 30.3
+ |Nov record high C = 30.0
+ |Dec record high C = 29.9
+|year record high C = 35.4
+|Jan high C = 24.4
+ |Feb high C = 25.3
+ |Mar high C = 26.3
+ |Apr high C = 25.3
+ |May high C = 23.7
+ |Jun high C = 22.9
+ |Jul high C = 23.1
+ |Aug high C = 23.8
+ |Sep high C = 24.6
+ |Oct high C = 23.9
+ |Nov high C = 23.1
+ |Dec high C = 23.2
+|year high C = 24.1
+|Jan mean C = 20.2
+ |Feb mean C = 20.9
+ |Mar mean C = 21.0
+ |Apr mean C = 19.8
+ |May mean C = 20.4
+ |Jun mean C = 19.6
+ |Jul mean C = 19.3
+ |Aug mean C = 20.9
+ |Sep mean C = 21.1
+ |Oct mean C = 21.3
+ |Nov mean C = 19.9
+ |Dec mean C = 19.5
+|year mean C = 20.3
+|Jan low C = 17.4
+ |Feb low C = 18.3
+ |Mar low C = 18.9
+ |Apr low C = 18.3
+ |May low C = 18.0
+ |Jun low C = 17.1
+ |Jul low C = 17.1
+ |Aug low C = 17.2
+ |Sep low C = 18.0
+ |Oct low C = 17.8
+ |Nov low C = 17.8
+ |Dec low C = 17.4
+|year low C = 17.8
+|Jan record low C = 2.5
+ |Feb record low C = 3.2
+ |Mar record low C = 2.1
+ |Apr record low C = -0.4
+ |May record low C = -4.3
+ |Jun record low C = -1.0
+ |Jul record low C = 1.1
+ |Aug record low C = 0.6
+ |Sep record low C = 1.9
+ |Oct record low C = 2.7
+ |Nov record low C = 3.4
+ |Dec record low C = 3.9
+|year record low C = -4.3
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}
