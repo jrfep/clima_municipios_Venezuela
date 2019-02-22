@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Ribero, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 32.2
+ |Feb record high C = 35.2
+ |Mar record high C = 38.6
+ |Apr record high C = 39.1
+ |May record high C = 39.8
+ |Jun record high C = 37.0
+ |Jul record high C = 32.0
+ |Aug record high C = 32.7
+ |Sep record high C = 33.6
+ |Oct record high C = 33.4
+ |Nov record high C = 32.0
+ |Dec record high C = 30.8
+|year record high C = 39.8
+|Jan high C = 24.9
+ |Feb high C = 26.5
+ |Mar high C = 29.1
+ |Apr high C = 30.1
+ |May high C = 30.2
+ |Jun high C = 26.8
+ |Jul high C = 25.8
+ |Aug high C = 26.6
+ |Sep high C = 27.2
+ |Oct high C = 26.5
+ |Nov high C = 25.4
+ |Dec high C = 24.7
+|year high C = 27.0
+|Jan mean C = 22.0
+ |Feb mean C = 22.6
+ |Mar mean C = 23.3
+ |Apr mean C = 23.3
+ |May mean C = 24.0
+ |Jun mean C = 23.1
+ |Jul mean C = 22.6
+ |Aug mean C = 23.6
+ |Sep mean C = 23.7
+ |Oct mean C = 23.7
+ |Nov mean C = 23.0
+ |Dec mean C = 22.3
+|year mean C = 23.1
+|Jan low C = 19.4
+ |Feb low C = 19.6
+ |Mar low C = 20.5
+ |Apr low C = 21.3
+ |May low C = 21.4
+ |Jun low C = 20.7
+ |Jul low C = 20.6
+ |Aug low C = 21.1
+ |Sep low C = 21.3
+ |Oct low C = 21.1
+ |Nov low C = 20.9
+ |Dec low C = 19.8
+|year low C = 20.6
+|Jan record low C = 13.5
+ |Feb record low C = 13.9
+ |Mar record low C = 14.1
+ |Apr record low C = 15.7
+ |May record low C = 15.1
+ |Jun record low C = 15.2
+ |Jul record low C = 15.4
+ |Aug record low C = 15.7
+ |Sep record low C = 17.0
+ |Oct record low C = 16.5
+ |Nov record low C = 15.6
+ |Dec record low C = 14.6
+|year record low C = 13.5
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

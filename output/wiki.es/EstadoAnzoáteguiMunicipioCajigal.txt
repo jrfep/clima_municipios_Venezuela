@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Cajigal, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 42.2
+ |Feb record high C = 43.5
+ |Mar record high C = 47.6
+ |Apr record high C = 47.2
+ |May record high C = 49.6
+ |Jun record high C = 39.6
+ |Jul record high C = 32.6
+ |Aug record high C = 33.0
+ |Sep record high C = 36.4
+ |Oct record high C = 38.0
+ |Nov record high C = 37.4
+ |Dec record high C = 37.2
+|year record high C = 49.6
+|Jan high C = 31.6
+ |Feb high C = 35.4
+ |Mar high C = 38.8
+ |Apr high C = 39.4
+ |May high C = 34.4
+ |Jun high C = 27.9
+ |Jul high C = 26.2
+ |Aug high C = 26.7
+ |Sep high C = 27.8
+ |Oct high C = 27.6
+ |Nov high C = 27.6
+ |Dec high C = 28.7
+|year high C = 31.0
+|Jan mean C = 24.1
+ |Feb mean C = 24.4
+ |Mar mean C = 23.9
+ |Apr mean C = 23.9
+ |May mean C = 23.8
+ |Jun mean C = 24.6
+ |Jul mean C = 24.5
+ |Aug mean C = 25.0
+ |Sep mean C = 25.5
+ |Oct mean C = 24.6
+ |Nov mean C = 25.3
+ |Dec mean C = 24.3
+|year mean C = 24.5
+|Jan low C = 22.0
+ |Feb low C = 22.6
+ |Mar low C = 22.7
+ |Apr low C = 23.4
+ |May low C = 23.0
+ |Jun low C = 22.3
+ |Jul low C = 21.7
+ |Aug low C = 22.5
+ |Sep low C = 22.5
+ |Oct low C = 22.7
+ |Nov low C = 22.2
+ |Dec low C = 21.8
+|year low C = 22.4
+|Jan record low C = 16.3
+ |Feb record low C = 17.2
+ |Mar record low C = 18.0
+ |Apr record low C = 17.8
+ |May record low C = 17.5
+ |Jun record low C = 16.1
+ |Jul record low C = 15.3
+ |Aug record low C = 16.3
+ |Sep record low C = 16.4
+ |Oct record low C = 18.0
+ |Nov record low C = 16.5
+ |Dec record low C = 16.9
+|year record low C = 15.3
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

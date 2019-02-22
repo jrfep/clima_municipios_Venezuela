@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Bermúdez, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 31.0
+ |Feb record high C = 34.2
+ |Mar record high C = 36.3
+ |Apr record high C = 37.8
+ |May record high C = 37.4
+ |Jun record high C = 34.1
+ |Jul record high C = 31.3
+ |Aug record high C = 33.2
+ |Sep record high C = 33.7
+ |Oct record high C = 33.5
+ |Nov record high C = 32.7
+ |Dec record high C = 30.2
+|year record high C = 37.8
+|Jan high C = 24.4
+ |Feb high C = 25.7
+ |Mar high C = 27.5
+ |Apr high C = 28.0
+ |May high C = 28.1
+ |Jun high C = 25.3
+ |Jul high C = 25.0
+ |Aug high C = 26.0
+ |Sep high C = 26.6
+ |Oct high C = 26.1
+ |Nov high C = 25.2
+ |Dec high C = 24.5
+|year high C = 26.0
+|Jan mean C = 22.0
+ |Feb mean C = 22.5
+ |Mar mean C = 23.1
+ |Apr mean C = 23.3
+ |May mean C = 23.4
+ |Jun mean C = 22.6
+ |Jul mean C = 22.6
+ |Aug mean C = 23.5
+ |Sep mean C = 23.8
+ |Oct mean C = 23.6
+ |Nov mean C = 23.2
+ |Dec mean C = 22.3
+|year mean C = 23.0
+|Jan low C = 20.3
+ |Feb low C = 20.4
+ |Mar low C = 21.1
+ |Apr low C = 21.6
+ |May low C = 21.7
+ |Jun low C = 20.9
+ |Jul low C = 21.0
+ |Aug low C = 21.8
+ |Sep low C = 22.0
+ |Oct low C = 21.9
+ |Nov low C = 21.5
+ |Dec low C = 20.6
+|year low C = 21.2
+|Jan record low C = 15.1
+ |Feb record low C = 16.0
+ |Mar record low C = 15.8
+ |Apr record low C = 14.3
+ |May record low C = 16.0
+ |Jun record low C = 16.0
+ |Jul record low C = 16.3
+ |Aug record low C = 17.7
+ |Sep record low C = 17.9
+ |Oct record low C = 18.0
+ |Nov record low C = 17.2
+ |Dec record low C = 16.5
+|year record low C = 14.3
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

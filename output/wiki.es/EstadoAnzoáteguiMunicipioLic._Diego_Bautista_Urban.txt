@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Lic. Diego Bautista Urban, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 32.4
+ |Feb record high C = 31.0
+ |Mar record high C = 32.2
+ |Apr record high C = 34.9
+ |May record high C = 32.5
+ |Jun record high C = 31.9
+ |Jul record high C = 31.0
+ |Aug record high C = 32.8
+ |Sep record high C = 32.4
+ |Oct record high C = 33.3
+ |Nov record high C = 31.4
+ |Dec record high C = 31.7
+|year record high C = 34.9
+|Jan high C = 27.1
+ |Feb high C = 28.3
+ |Mar high C = 28.2
+ |Apr high C = 27.9
+ |May high C = 28.1
+ |Jun high C = 26.7
+ |Jul high C = 26.8
+ |Aug high C = 27.9
+ |Sep high C = 28.4
+ |Oct high C = 28.8
+ |Nov high C = 28.3
+ |Dec high C = 27.6
+|year high C = 27.8
+|Jan mean C = 25.1
+ |Feb mean C = 25.2
+ |Mar mean C = 25.8
+ |Apr mean C = 25.7
+ |May mean C = 25.9
+ |Jun mean C = 25.3
+ |Jul mean C = 25.5
+ |Aug mean C = 26.7
+ |Sep mean C = 27.2
+ |Oct mean C = 27.0
+ |Nov mean C = 26.7
+ |Dec mean C = 25.9
+|year mean C = 26.0
+|Jan low C = 24.2
+ |Feb low C = 24.1
+ |Mar low C = 24.1
+ |Apr low C = 24.5
+ |May low C = 24.4
+ |Jun low C = 24.0
+ |Jul low C = 24.3
+ |Aug low C = 25.7
+ |Sep low C = 26.5
+ |Oct low C = 26.4
+ |Nov low C = 25.9
+ |Dec low C = 24.7
+|year low C = 24.9
+|Jan record low C = 18.3
+ |Feb record low C = 17.0
+ |Mar record low C = 16.6
+ |Apr record low C = 20.6
+ |May record low C = 20.4
+ |Jun record low C = 20.6
+ |Jul record low C = 3.0
+ |Aug record low C = 21.3
+ |Sep record low C = 23.3
+ |Oct record low C = 24.0
+ |Nov record low C = 23.1
+ |Dec record low C = 15.7
+|year record low C = 3.0
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

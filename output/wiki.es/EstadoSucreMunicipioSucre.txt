@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Sucre, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 34.3
+ |Feb record high C = 36.8
+ |Mar record high C = 39.2
+ |Apr record high C = 39.5
+ |May record high C = 40.2
+ |Jun record high C = 37.9
+ |Jul record high C = 35.8
+ |Aug record high C = 36.6
+ |Sep record high C = 38.1
+ |Oct record high C = 36.8
+ |Nov record high C = 35.3
+ |Dec record high C = 34.0
+|year record high C = 40.2
+|Jan high C = 26.1
+ |Feb high C = 27.9
+ |Mar high C = 29.5
+ |Apr high C = 29.6
+ |May high C = 28.8
+ |Jun high C = 26.3
+ |Jul high C = 25.7
+ |Aug high C = 26.4
+ |Sep high C = 26.8
+ |Oct high C = 26.4
+ |Nov high C = 25.5
+ |Dec high C = 25.6
+|year high C = 27.1
+|Jan mean C = 22.8
+ |Feb mean C = 23.4
+ |Mar mean C = 23.7
+ |Apr mean C = 23.9
+ |May mean C = 24.1
+ |Jun mean C = 23.1
+ |Jul mean C = 22.9
+ |Aug mean C = 23.8
+ |Sep mean C = 23.9
+ |Oct mean C = 23.7
+ |Nov mean C = 23.2
+ |Dec mean C = 22.8
+|year mean C = 23.4
+|Jan low C = 20.2
+ |Feb low C = 20.6
+ |Mar low C = 21.2
+ |Apr low C = 21.8
+ |May low C = 21.8
+ |Jun low C = 21.0
+ |Jul low C = 20.9
+ |Aug low C = 21.4
+ |Sep low C = 21.5
+ |Oct low C = 21.5
+ |Nov low C = 21.2
+ |Dec low C = 20.4
+|year low C = 21.1
+|Jan record low C = 14.8
+ |Feb record low C = 14.8
+ |Mar record low C = 14.7
+ |Apr record low C = 15.9
+ |May record low C = 14.9
+ |Jun record low C = 15.2
+ |Jul record low C = 14.0
+ |Aug record low C = 14.7
+ |Sep record low C = 16.1
+ |Oct record low C = 16.3
+ |Nov record low C = 15.2
+ |Dec record low C = 14.3
+|year record low C = 14.0
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}
