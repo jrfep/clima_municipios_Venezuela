@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Alberto Arvelo Torrealba, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 38.9
+ |Feb record high C = 41.1
+ |Mar record high C = 43.5
+ |Apr record high C = 43.2
+ |May record high C = 38.4
+ |Jun record high C = 33.7
+ |Jul record high C = 31.5
+ |Aug record high C = 34.0
+ |Sep record high C = 34.5
+ |Oct record high C = 34.6
+ |Nov record high C = 36.4
+ |Dec record high C = 36.1
+|year record high C = 43.5
+|Jan high C = 32.1
+ |Feb high C = 35.3
+ |Mar high C = 36.7
+ |Apr high C = 32.6
+ |May high C = 30.2
+ |Jun high C = 28.1
+ |Jul high C = 27.1
+ |Aug high C = 28.4
+ |Sep high C = 29.5
+ |Oct high C = 29.0
+ |Nov high C = 28.9
+ |Dec high C = 30.3
+|year high C = 30.7
+|Jan mean C = 23.6
+ |Feb mean C = 24.0
+ |Mar mean C = 23.7
+ |Apr mean C = 23.3
+ |May mean C = 23.8
+ |Jun mean C = 23.7
+ |Jul mean C = 23.3
+ |Aug mean C = 24.3
+ |Sep mean C = 24.4
+ |Oct mean C = 24.5
+ |Nov mean C = 23.5
+ |Dec mean C = 23.3
+|year mean C = 23.8
+|Jan low C = 21.3
+ |Feb low C = 22.1
+ |Mar low C = 22.7
+ |Apr low C = 22.9
+ |May low C = 22.9
+ |Jun low C = 22.2
+ |Jul low C = 22.3
+ |Aug low C = 22.0
+ |Sep low C = 22.9
+ |Oct low C = 22.7
+ |Nov low C = 22.3
+ |Dec low C = 21.6
+|year low C = 22.3
+|Jan record low C = 15.7
+ |Feb record low C = 17.1
+ |Mar record low C = 17.8
+ |Apr record low C = 17.1
+ |May record low C = 14.5
+ |Jun record low C = 12.7
+ |Jul record low C = 13.9
+ |Aug record low C = 10.1
+ |Sep record low C = 14.4
+ |Oct record low C = 17.4
+ |Nov record low C = 18.0
+ |Dec record low C = 17.0
+|year record low C = 10.1
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

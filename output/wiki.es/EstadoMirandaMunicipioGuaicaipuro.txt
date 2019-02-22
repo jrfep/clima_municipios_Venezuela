@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Guaicaipuro, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 31.6
+ |Feb record high C = 36.1
+ |Mar record high C = 38.6
+ |Apr record high C = 38.9
+ |May record high C = 37.1
+ |Jun record high C = 33.2
+ |Jul record high C = 31.2
+ |Aug record high C = 30.2
+ |Sep record high C = 31.0
+ |Oct record high C = 30.9
+ |Nov record high C = 29.5
+ |Dec record high C = 29.7
+|year record high C = 38.9
+|Jan high C = 23.3
+ |Feb high C = 25.2
+ |Mar high C = 27.6
+ |Apr high C = 27.6
+ |May high C = 25.1
+ |Jun high C = 23.3
+ |Jul high C = 22.7
+ |Aug high C = 23.8
+ |Sep high C = 24.3
+ |Oct high C = 24.0
+ |Nov high C = 23.2
+ |Dec high C = 22.5
+|year high C = 24.4
+|Jan mean C = 18.8
+ |Feb mean C = 19.7
+ |Mar mean C = 20.4
+ |Apr mean C = 21.2
+ |May mean C = 21.0
+ |Jun mean C = 20.4
+ |Jul mean C = 19.7
+ |Aug mean C = 20.6
+ |Sep mean C = 21.3
+ |Oct mean C = 21.0
+ |Nov mean C = 19.9
+ |Dec mean C = 18.9
+|year mean C = 20.2
+|Jan low C = 16.0
+ |Feb low C = 16.0
+ |Mar low C = 16.6
+ |Apr low C = 17.5
+ |May low C = 17.5
+ |Jun low C = 17.4
+ |Jul low C = 17.2
+ |Aug low C = 17.8
+ |Sep low C = 18.0
+ |Oct low C = 17.8
+ |Nov low C = 17.4
+ |Dec low C = 16.5
+|year low C = 17.1
+|Jan record low C = 11.6
+ |Feb record low C = 11.4
+ |Mar record low C = 11.4
+ |Apr record low C = 13.0
+ |May record low C = 11.1
+ |Jun record low C = 12.1
+ |Jul record low C = 10.9
+ |Aug record low C = 12.9
+ |Sep record low C = 12.8
+ |Oct record low C = 13.0
+ |Nov record low C = 13.1
+ |Dec record low C = 11.9
+|year record low C = 10.9
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Pedraza, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 39.0
+ |Feb record high C = 41.6
+ |Mar record high C = 43.9
+ |Apr record high C = 43.4
+ |May record high C = 36.5
+ |Jun record high C = 34.0
+ |Jul record high C = 32.9
+ |Aug record high C = 33.7
+ |Sep record high C = 35.0
+ |Oct record high C = 34.3
+ |Nov record high C = 34.2
+ |Dec record high C = 35.9
+|year record high C = 43.9
+|Jan high C = 31.8
+ |Feb high C = 34.7
+ |Mar high C = 35.8
+ |Apr high C = 32.2
+ |May high C = 29.2
+ |Jun high C = 27.2
+ |Jul high C = 26.8
+ |Aug high C = 27.8
+ |Sep high C = 28.9
+ |Oct high C = 27.7
+ |Nov high C = 27.5
+ |Dec high C = 29.0
+|year high C = 29.9
+|Jan mean C = 22.6
+ |Feb mean C = 22.8
+ |Mar mean C = 22.9
+ |Apr mean C = 23.1
+ |May mean C = 24.3
+ |Jun mean C = 23.9
+ |Jul mean C = 23.6
+ |Aug mean C = 24.9
+ |Sep mean C = 25.0
+ |Oct mean C = 24.6
+ |Nov mean C = 23.6
+ |Dec mean C = 23.1
+|year mean C = 23.7
+|Jan low C = 20.4
+ |Feb low C = 21.1
+ |Mar low C = 22.0
+ |Apr low C = 22.3
+ |May low C = 22.5
+ |Jun low C = 21.9
+ |Jul low C = 22.0
+ |Aug low C = 22.3
+ |Sep low C = 22.8
+ |Oct low C = 22.6
+ |Nov low C = 22.2
+ |Dec low C = 21.1
+|year low C = 21.9
+|Jan record low C = 15.0
+ |Feb record low C = 15.3
+ |Mar record low C = 16.2
+ |Apr record low C = 14.9
+ |May record low C = 14.1
+ |Jun record low C = 12.4
+ |Jul record low C = 11.3
+ |Aug record low C = 12.6
+ |Sep record low C = 15.0
+ |Oct record low C = 12.7
+ |Nov record low C = 15.2
+ |Dec record low C = 14.8
+|year record low C = 11.3
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}
