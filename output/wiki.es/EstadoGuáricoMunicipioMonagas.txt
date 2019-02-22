@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Monagas, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 40.7
+ |Feb record high C = 44.0
+ |Mar record high C = 47.2
+ |Apr record high C = 48.0
+ |May record high C = 45.3
+ |Jun record high C = 39.0
+ |Jul record high C = 33.9
+ |Aug record high C = 32.4
+ |Sep record high C = 35.6
+ |Oct record high C = 36.0
+ |Nov record high C = 38.0
+ |Dec record high C = 39.3
+|year record high C = 48.0
+|Jan high C = 31.8
+ |Feb high C = 35.3
+ |Mar high C = 37.8
+ |Apr high C = 34.8
+ |May high C = 29.0
+ |Jun high C = 26.3
+ |Jul high C = 25.2
+ |Aug high C = 25.7
+ |Sep high C = 26.6
+ |Oct high C = 26.9
+ |Nov high C = 27.4
+ |Dec high C = 28.9
+|year high C = 29.6
+|Jan mean C = 22.5
+ |Feb mean C = 23.3
+ |Mar mean C = 23.5
+ |Apr mean C = 23.2
+ |May mean C = 23.1
+ |Jun mean C = 22.9
+ |Jul mean C = 22.5
+ |Aug mean C = 22.9
+ |Sep mean C = 23.3
+ |Oct mean C = 22.8
+ |Nov mean C = 22.8
+ |Dec mean C = 22.5
+|year mean C = 22.9
+|Jan low C = 21.2
+ |Feb low C = 21.6
+ |Mar low C = 22.0
+ |Apr low C = 22.3
+ |May low C = 22.0
+ |Jun low C = 21.0
+ |Jul low C = 20.8
+ |Aug low C = 21.2
+ |Sep low C = 21.3
+ |Oct low C = 21.6
+ |Nov low C = 21.4
+ |Dec low C = 21.1
+|year low C = 21.5
+|Jan record low C = 14.5
+ |Feb record low C = 15.3
+ |Mar record low C = 14.2
+ |Apr record low C = 15.6
+ |May record low C = 14.5
+ |Jun record low C = 14.4
+ |Jul record low C = 14.3
+ |Aug record low C = 15.2
+ |Sep record low C = 15.8
+ |Oct record low C = 16.5
+ |Nov record low C = 15.1
+ |Dec record low C = 14.6
+|year record low C = 14.2
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Libertador, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 29.4
+ |Feb record high C = 31.8
+ |Mar record high C = 34.7
+ |Apr record high C = 36.0
+ |May record high C = 34.1
+ |Jun record high C = 31.5
+ |Jul record high C = 29.3
+ |Aug record high C = 31.2
+ |Sep record high C = 31.3
+ |Oct record high C = 31.2
+ |Nov record high C = 30.8
+ |Dec record high C = 29.4
+|year record high C = 36.0
+|Jan high C = 25.2
+ |Feb high C = 26.6
+ |Mar high C = 28.4
+ |Apr high C = 28.2
+ |May high C = 28.0
+ |Jun high C = 25.8
+ |Jul high C = 25.4
+ |Aug high C = 26.3
+ |Sep high C = 26.6
+ |Oct high C = 27.0
+ |Nov high C = 25.6
+ |Dec high C = 25.4
+|year high C = 26.5
+|Jan mean C = 22.1
+ |Feb mean C = 22.2
+ |Mar mean C = 23.2
+ |Apr mean C = 23.0
+ |May mean C = 23.6
+ |Jun mean C = 22.7
+ |Jul mean C = 22.8
+ |Aug mean C = 23.6
+ |Sep mean C = 23.8
+ |Oct mean C = 23.6
+ |Nov mean C = 23.3
+ |Dec mean C = 22.6
+|year mean C = 23.0
+|Jan low C = 20.7
+ |Feb low C = 20.7
+ |Mar low C = 21.2
+ |Apr low C = 21.6
+ |May low C = 21.6
+ |Jun low C = 21.3
+ |Jul low C = 21.2
+ |Aug low C = 22.1
+ |Sep low C = 22.2
+ |Oct low C = 22.1
+ |Nov low C = 21.8
+ |Dec low C = 21.1
+|year low C = 21.5
+|Jan record low C = 14.3
+ |Feb record low C = 14.5
+ |Mar record low C = 16.0
+ |Apr record low C = 16.5
+ |May record low C = 17.2
+ |Jun record low C = 15.4
+ |Jul record low C = 16.1
+ |Aug record low C = 15.6
+ |Sep record low C = 15.1
+ |Oct record low C = 18.7
+ |Nov record low C = 16.9
+ |Dec record low C = 18.0
+|year record low C = 14.3
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

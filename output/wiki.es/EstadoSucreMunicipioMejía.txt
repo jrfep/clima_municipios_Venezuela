@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Mejía, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 31.1
+ |Feb record high C = 34.1
+ |Mar record high C = 36.3
+ |Apr record high C = 37.7
+ |May record high C = 39.6
+ |Jun record high C = 36.2
+ |Jul record high C = 31.0
+ |Aug record high C = 30.6
+ |Sep record high C = 30.5
+ |Oct record high C = 29.7
+ |Nov record high C = 29.6
+ |Dec record high C = 29.7
+|year record high C = 39.6
+|Jan high C = 25.0
+ |Feb high C = 26.9
+ |Mar high C = 29.5
+ |Apr high C = 30.3
+ |May high C = 30.3
+ |Jun high C = 26.8
+ |Jul high C = 25.6
+ |Aug high C = 26.3
+ |Sep high C = 26.9
+ |Oct high C = 26.4
+ |Nov high C = 25.1
+ |Dec high C = 24.5
+|year high C = 27.0
+|Jan mean C = 22.1
+ |Feb mean C = 22.4
+ |Mar mean C = 23.4
+ |Apr mean C = 23.4
+ |May mean C = 24.3
+ |Jun mean C = 22.9
+ |Jul mean C = 22.7
+ |Aug mean C = 23.9
+ |Sep mean C = 23.8
+ |Oct mean C = 23.7
+ |Nov mean C = 23.2
+ |Dec mean C = 22.3
+|year mean C = 23.2
+|Jan low C = 19.4
+ |Feb low C = 19.8
+ |Mar low C = 20.5
+ |Apr low C = 21.0
+ |May low C = 21.3
+ |Jun low C = 20.7
+ |Jul low C = 20.5
+ |Aug low C = 20.9
+ |Sep low C = 21.2
+ |Oct low C = 21.0
+ |Nov low C = 20.8
+ |Dec low C = 20.0
+|year low C = 20.6
+|Jan record low C = 13.1
+ |Feb record low C = 14.4
+ |Mar record low C = 14.8
+ |Apr record low C = 16.9
+ |May record low C = 16.9
+ |Jun record low C = 16.7
+ |Jul record low C = 16.4
+ |Aug record low C = 17.0
+ |Sep record low C = 18.1
+ |Oct record low C = 15.7
+ |Nov record low C = 17.4
+ |Dec record low C = 15.2
+|year record low C = 13.1
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

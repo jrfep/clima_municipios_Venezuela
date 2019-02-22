@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Andrés Mata, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 31.0
+ |Feb record high C = 34.1
+ |Mar record high C = 36.8
+ |Apr record high C = 38.7
+ |May record high C = 37.5
+ |Jun record high C = 32.9
+ |Jul record high C = 30.4
+ |Aug record high C = 32.5
+ |Sep record high C = 32.6
+ |Oct record high C = 32.4
+ |Nov record high C = 31.8
+ |Dec record high C = 29.7
+|year record high C = 38.7
+|Jan high C = 24.2
+ |Feb high C = 25.4
+ |Mar high C = 27.7
+ |Apr high C = 27.8
+ |May high C = 27.9
+ |Jun high C = 24.8
+ |Jul high C = 24.5
+ |Aug high C = 25.7
+ |Sep high C = 26.3
+ |Oct high C = 25.9
+ |Nov high C = 25.0
+ |Dec high C = 24.0
+|year high C = 25.7
+|Jan mean C = 21.4
+ |Feb mean C = 21.9
+ |Mar mean C = 22.7
+ |Apr mean C = 22.7
+ |May mean C = 23.0
+ |Jun mean C = 22.1
+ |Jul mean C = 22.0
+ |Aug mean C = 23.0
+ |Sep mean C = 23.1
+ |Oct mean C = 23.1
+ |Nov mean C = 22.6
+ |Dec mean C = 21.8
+|year mean C = 22.4
+|Jan low C = 19.6
+ |Feb low C = 19.6
+ |Mar low C = 20.4
+ |Apr low C = 21.2
+ |May low C = 21.2
+ |Jun low C = 20.4
+ |Jul low C = 20.6
+ |Aug low C = 21.1
+ |Sep low C = 21.4
+ |Oct low C = 21.3
+ |Nov low C = 20.9
+ |Dec low C = 20.0
+|year low C = 20.6
+|Jan record low C = 15.2
+ |Feb record low C = 15.2
+ |Mar record low C = 14.1
+ |Apr record low C = 16.7
+ |May record low C = 15.3
+ |Jun record low C = 14.3
+ |Jul record low C = 15.9
+ |Aug record low C = 17.7
+ |Sep record low C = 16.2
+ |Oct record low C = 18.5
+ |Nov record low C = 15.3
+ |Dec record low C = 14.8
+|year record low C = 14.1
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}
