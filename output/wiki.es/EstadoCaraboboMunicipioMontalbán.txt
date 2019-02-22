@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Montalbán, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 35.7
+ |Feb record high C = 37.0
+ |Mar record high C = 41.4
+ |Apr record high C = 41.7
+ |May record high C = 34.9
+ |Jun record high C = 33.4
+ |Jul record high C = 31.1
+ |Aug record high C = 31.4
+ |Sep record high C = 33.4
+ |Oct record high C = 31.8
+ |Nov record high C = 30.5
+ |Dec record high C = 33.1
+|year record high C = 41.7
+|Jan high C = 27.9
+ |Feb high C = 30.2
+ |Mar high C = 31.6
+ |Apr high C = 29.9
+ |May high C = 27.0
+ |Jun high C = 25.1
+ |Jul high C = 24.1
+ |Aug high C = 25.2
+ |Sep high C = 25.9
+ |Oct high C = 26.2
+ |Nov high C = 25.3
+ |Dec high C = 26.2
+|year high C = 27.0
+|Jan mean C = 20.2
+ |Feb mean C = 20.7
+ |Mar mean C = 20.3
+ |Apr mean C = 20.2
+ |May mean C = 20.4
+ |Jun mean C = 21.4
+ |Jul mean C = 20.3
+ |Aug mean C = 20.8
+ |Sep mean C = 21.5
+ |Oct mean C = 20.9
+ |Nov mean C = 20.1
+ |Dec mean C = 19.9
+|year mean C = 20.6
+|Jan low C = 17.9
+ |Feb low C = 17.9
+ |Mar low C = 18.5
+ |Apr low C = 18.6
+ |May low C = 18.9
+ |Jun low C = 19.0
+ |Jul low C = 18.4
+ |Aug low C = 18.6
+ |Sep low C = 19.2
+ |Oct low C = 18.7
+ |Nov low C = 18.4
+ |Dec low C = 17.8
+|year low C = 18.5
+|Jan record low C = 15.2
+ |Feb record low C = 14.6
+ |Mar record low C = 14.8
+ |Apr record low C = 15.3
+ |May record low C = 14.9
+ |Jun record low C = 14.3
+ |Jul record low C = 13.0
+ |Aug record low C = 14.6
+ |Sep record low C = 14.3
+ |Oct record low C = 13.6
+ |Nov record low C = 14.2
+ |Dec record low C = 14.5
+|year record low C = 13.0
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

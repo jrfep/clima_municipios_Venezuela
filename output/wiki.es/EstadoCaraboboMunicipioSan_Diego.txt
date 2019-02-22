@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio San Diego, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 39.6
+ |Feb record high C = 41.5
+ |Mar record high C = 45.6
+ |Apr record high C = 44.7
+ |May record high C = 38.5
+ |Jun record high C = 36.1
+ |Jul record high C = 33.3
+ |Aug record high C = 33.1
+ |Sep record high C = 34.0
+ |Oct record high C = 34.8
+ |Nov record high C = 35.1
+ |Dec record high C = 35.6
+|year record high C = 45.6
+|Jan high C = 32.2
+ |Feb high C = 35.1
+ |Mar high C = 37.8
+ |Apr high C = 34.1
+ |May high C = 31.2
+ |Jun high C = 28.0
+ |Jul high C = 27.7
+ |Aug high C = 28.4
+ |Sep high C = 29.1
+ |Oct high C = 29.2
+ |Nov high C = 28.8
+ |Dec high C = 30.0
+|year high C = 30.9
+|Jan mean C = 21.0
+ |Feb mean C = 21.6
+ |Mar mean C = 21.8
+ |Apr mean C = 21.6
+ |May mean C = 21.6
+ |Jun mean C = 22.4
+ |Jul mean C = 21.7
+ |Aug mean C = 21.4
+ |Sep mean C = 22.1
+ |Oct mean C = 22.1
+ |Nov mean C = 21.5
+ |Dec mean C = 21.0
+|year mean C = 21.6
+|Jan low C = 19.3
+ |Feb low C = 19.7
+ |Mar low C = 20.3
+ |Apr low C = 20.7
+ |May low C = 20.6
+ |Jun low C = 20.2
+ |Jul low C = 20.1
+ |Aug low C = 19.8
+ |Sep low C = 20.4
+ |Oct low C = 20.3
+ |Nov low C = 20.0
+ |Dec low C = 19.5
+|year low C = 20.1
+|Jan record low C = 14.2
+ |Feb record low C = 14.1
+ |Mar record low C = 14.4
+ |Apr record low C = 13.1
+ |May record low C = 12.3
+ |Jun record low C = 13.6
+ |Jul record low C = 12.0
+ |Aug record low C = 14.3
+ |Sep record low C = 15.8
+ |Oct record low C = 15.3
+ |Nov record low C = 14.6
+ |Dec record low C = 14.1
+|year record low C = 12.0
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

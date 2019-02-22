@@ -2,7 +2,7 @@ edo <- "Zulia"
 slc <- "Mara"
 edo <- "Yaracuy"
 
-for (edo in  unique(gaz.ven.adm2$NAME_1)[2:4]) {
+for (edo in  unique(gaz.ven.adm2$NAME_1)[6:8]) {
     for (slc in unique(subset(gaz.ven.adm2,NAME_1 %in% edo)$NAME_2)) {
     ss <- gaz.ven.adm2$NAME_1 %in% edo & gaz.ven.adm2$NAME_2 %in% slc
     wiki.out <- sprintf("../output/wiki.es/Estado%sMunicipio%s.txt",edo,gsub(" ","_",slc))

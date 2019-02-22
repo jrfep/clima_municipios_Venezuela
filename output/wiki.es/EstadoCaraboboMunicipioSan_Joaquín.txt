@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio San Joaquín, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 38.6
+ |Feb record high C = 43.1
+ |Mar record high C = 45.3
+ |Apr record high C = 44.1
+ |May record high C = 40.3
+ |Jun record high C = 39.3
+ |Jul record high C = 36.2
+ |Aug record high C = 34.7
+ |Sep record high C = 35.2
+ |Oct record high C = 35.6
+ |Nov record high C = 36.8
+ |Dec record high C = 37.0
+|year record high C = 45.3
+|Jan high C = 32.1
+ |Feb high C = 34.9
+ |Mar high C = 35.7
+ |Apr high C = 31.7
+ |May high C = 28.6
+ |Jun high C = 27.5
+ |Jul high C = 26.9
+ |Aug high C = 28.0
+ |Sep high C = 28.9
+ |Oct high C = 28.8
+ |Nov high C = 28.7
+ |Dec high C = 29.6
+|year high C = 30.1
+|Jan mean C = 20.8
+ |Feb mean C = 21.4
+ |Mar mean C = 22.0
+ |Apr mean C = 21.7
+ |May mean C = 21.7
+ |Jun mean C = 21.6
+ |Jul mean C = 21.2
+ |Aug mean C = 21.6
+ |Sep mean C = 21.5
+ |Oct mean C = 21.6
+ |Nov mean C = 21.1
+ |Dec mean C = 20.8
+|year mean C = 21.4
+|Jan low C = 19.9
+ |Feb low C = 20.3
+ |Mar low C = 20.8
+ |Apr low C = 20.9
+ |May low C = 20.5
+ |Jun low C = 20.1
+ |Jul low C = 19.5
+ |Aug low C = 19.9
+ |Sep low C = 20.0
+ |Oct low C = 20.5
+ |Nov low C = 20.0
+ |Dec low C = 19.9
+|year low C = 20.2
+|Jan record low C = 15.2
+ |Feb record low C = 13.8
+ |Mar record low C = 10.4
+ |Apr record low C = 13.9
+ |May record low C = 10.0
+ |Jun record low C = 11.1
+ |Jul record low C = 14.4
+ |Aug record low C = 14.3
+ |Sep record low C = 16.0
+ |Oct record low C = 14.4
+ |Nov record low C = 14.3
+ |Dec record low C = 15.0
+|year record low C = 10.0
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}
