@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Morán, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 35.7
+ |Feb record high C = 36.9
+ |Mar record high C = 38.7
+ |Apr record high C = 40.0
+ |May record high C = 37.8
+ |Jun record high C = 37.1
+ |Jul record high C = 37.7
+ |Aug record high C = 40.0
+ |Sep record high C = 40.3
+ |Oct record high C = 39.7
+ |Nov record high C = 34.3
+ |Dec record high C = 34.2
+|year record high C = 40.3
+|Jan high C = 25.3
+ |Feb high C = 27.1
+ |Mar high C = 28.4
+ |Apr high C = 27.0
+ |May high C = 25.9
+ |Jun high C = 25.1
+ |Jul high C = 25.2
+ |Aug high C = 26.9
+ |Sep high C = 27.2
+ |Oct high C = 25.9
+ |Nov high C = 24.2
+ |Dec high C = 23.9
+|year high C = 26.0
+|Jan mean C = 20.5
+ |Feb mean C = 21.5
+ |Mar mean C = 21.4
+ |Apr mean C = 20.9
+ |May mean C = 20.9
+ |Jun mean C = 20.3
+ |Jul mean C = 20.4
+ |Aug mean C = 22.1
+ |Sep mean C = 22.4
+ |Oct mean C = 22.1
+ |Nov mean C = 20.6
+ |Dec mean C = 20.0
+|year mean C = 21.1
+|Jan low C = 16.3
+ |Feb low C = 16.8
+ |Mar low C = 17.3
+ |Apr low C = 17.3
+ |May low C = 17.5
+ |Jun low C = 17.1
+ |Jul low C = 17.0
+ |Aug low C = 17.7
+ |Sep low C = 17.8
+ |Oct low C = 17.3
+ |Nov low C = 17.0
+ |Dec low C = 16.3
+|year low C = 17.1
+|Jan record low C = 9.1
+ |Feb record low C = 9.0
+ |Mar record low C = 8.1
+ |Apr record low C = 7.0
+ |May record low C = 6.4
+ |Jun record low C = 6.9
+ |Jul record low C = 7.8
+ |Aug record low C = 7.0
+ |Sep record low C = 7.9
+ |Oct record low C = 6.9
+ |Nov record low C = 6.7
+ |Dec record low C = 8.1
+|year record low C = 6.4
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

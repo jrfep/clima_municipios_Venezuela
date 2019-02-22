@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio San Gerónimo de Guayabal, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 38.3
+ |Feb record high C = 41.9
+ |Mar record high C = 43.8
+ |Apr record high C = 43.5
+ |May record high C = 41.0
+ |Jun record high C = 33.3
+ |Jul record high C = 29.6
+ |Aug record high C = 30.4
+ |Sep record high C = 31.6
+ |Oct record high C = 31.4
+ |Nov record high C = 33.6
+ |Dec record high C = 36.4
+|year record high C = 43.8
+|Jan high C = 30.5
+ |Feb high C = 34.5
+ |Mar high C = 37.2
+ |Apr high C = 36.4
+ |May high C = 28.7
+ |Jun high C = 25.7
+ |Jul high C = 25.3
+ |Aug high C = 25.7
+ |Sep high C = 26.6
+ |Oct high C = 26.9
+ |Nov high C = 27.0
+ |Dec high C = 27.9
+|year high C = 29.4
+|Jan mean C = 24.6
+ |Feb mean C = 25.1
+ |Mar mean C = 25.2
+ |Apr mean C = 24.3
+ |May mean C = 24.0
+ |Jun mean C = 24.0
+ |Jul mean C = 24.0
+ |Aug mean C = 24.7
+ |Sep mean C = 25.4
+ |Oct mean C = 25.3
+ |Nov mean C = 24.6
+ |Dec mean C = 24.3
+|year mean C = 24.6
+|Jan low C = 21.9
+ |Feb low C = 22.8
+ |Mar low C = 23.7
+ |Apr low C = 23.4
+ |May low C = 22.9
+ |Jun low C = 22.5
+ |Jul low C = 22.5
+ |Aug low C = 23.7
+ |Sep low C = 23.7
+ |Oct low C = 23.7
+ |Nov low C = 23.0
+ |Dec low C = 21.9
+|year low C = 23.0
+|Jan record low C = 18.5
+ |Feb record low C = 18.8
+ |Mar record low C = 19.8
+ |Apr record low C = 18.6
+ |May record low C = 15.4
+ |Jun record low C = 13.4
+ |Jul record low C = 12.2
+ |Aug record low C = 16.0
+ |Sep record low C = 17.3
+ |Oct record low C = 19.5
+ |Nov record low C = 18.2
+ |Dec record low C = 17.0
+|year record low C = 12.2
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

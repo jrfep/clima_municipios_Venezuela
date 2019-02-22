@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio El Socorro, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 42.8
+ |Feb record high C = 43.6
+ |Mar record high C = 47.0
+ |Apr record high C = 45.2
+ |May record high C = 46.4
+ |Jun record high C = 44.2
+ |Jul record high C = 31.5
+ |Aug record high C = 32.3
+ |Sep record high C = 36.9
+ |Oct record high C = 35.1
+ |Nov record high C = 40.5
+ |Dec record high C = 41.7
+|year record high C = 47.0
+|Jan high C = 33.0
+ |Feb high C = 36.7
+ |Mar high C = 40.1
+ |Apr high C = 37.6
+ |May high C = 31.8
+ |Jun high C = 27.1
+ |Jul high C = 26.0
+ |Aug high C = 26.1
+ |Sep high C = 27.2
+ |Oct high C = 28.1
+ |Nov high C = 27.8
+ |Dec high C = 29.6
+|year high C = 30.9
+|Jan mean C = 23.8
+ |Feb mean C = 24.1
+ |Mar mean C = 24.1
+ |Apr mean C = 23.8
+ |May mean C = 23.9
+ |Jun mean C = 24.5
+ |Jul mean C = 24.1
+ |Aug mean C = 24.6
+ |Sep mean C = 24.5
+ |Oct mean C = 24.3
+ |Nov mean C = 24.0
+ |Dec mean C = 23.9
+|year mean C = 24.1
+|Jan low C = 22.0
+ |Feb low C = 22.6
+ |Mar low C = 23.2
+ |Apr low C = 23.4
+ |May low C = 23.2
+ |Jun low C = 21.9
+ |Jul low C = 21.7
+ |Aug low C = 22.4
+ |Sep low C = 22.4
+ |Oct low C = 22.5
+ |Nov low C = 22.0
+ |Dec low C = 21.6
+|year low C = 22.4
+|Jan record low C = 16.4
+ |Feb record low C = 18.8
+ |Mar record low C = 19.8
+ |Apr record low C = 19.5
+ |May record low C = 16.5
+ |Jun record low C = 14.2
+ |Jul record low C = 15.0
+ |Aug record low C = 16.1
+ |Sep record low C = 16.6
+ |Oct record low C = 18.3
+ |Nov record low C = 16.0
+ |Dec record low C = 16.6
+|year record low C = 14.2
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

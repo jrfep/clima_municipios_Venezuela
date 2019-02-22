@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Mellado, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 41.4
+ |Feb record high C = 44.9
+ |Mar record high C = 47.5
+ |Apr record high C = 47.6
+ |May record high C = 43.1
+ |Jun record high C = 41.5
+ |Jul record high C = 36.8
+ |Aug record high C = 33.3
+ |Sep record high C = 35.0
+ |Oct record high C = 35.4
+ |Nov record high C = 38.5
+ |Dec record high C = 40.1
+|year record high C = 47.6
+|Jan high C = 35.2
+ |Feb high C = 38.6
+ |Mar high C = 42.0
+ |Apr high C = 40.7
+ |May high C = 30.1
+ |Jun high C = 27.2
+ |Jul high C = 26.3
+ |Aug high C = 26.7
+ |Sep high C = 27.7
+ |Oct high C = 28.3
+ |Nov high C = 29.0
+ |Dec high C = 31.9
+|year high C = 32.0
+|Jan mean C = 24.5
+ |Feb mean C = 26.6
+ |Mar mean C = 25.5
+ |Apr mean C = 24.8
+ |May mean C = 24.4
+ |Jun mean C = 23.8
+ |Jul mean C = 23.4
+ |Aug mean C = 24.0
+ |Sep mean C = 24.8
+ |Oct mean C = 24.0
+ |Nov mean C = 24.3
+ |Dec mean C = 24.0
+|year mean C = 24.5
+|Jan low C = 22.1
+ |Feb low C = 23.1
+ |Mar low C = 24.1
+ |Apr low C = 24.2
+ |May low C = 23.6
+ |Jun low C = 22.2
+ |Jul low C = 21.7
+ |Aug low C = 21.9
+ |Sep low C = 22.1
+ |Oct low C = 22.1
+ |Nov low C = 21.9
+ |Dec low C = 21.7
+|year low C = 22.6
+|Jan record low C = 18.1
+ |Feb record low C = 19.7
+ |Mar record low C = 19.8
+ |Apr record low C = 17.7
+ |May record low C = 15.1
+ |Jun record low C = 14.6
+ |Jul record low C = 15.1
+ |Aug record low C = 15.9
+ |Sep record low C = 16.6
+ |Oct record low C = 15.8
+ |Nov record low C = 17.2
+ |Dec record low C = 17.9
+|year record low C = 14.6
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Zaraza, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 43.0
+ |Feb record high C = 44.2
+ |Mar record high C = 47.9
+ |Apr record high C = 46.8
+ |May record high C = 49.9
+ |Jun record high C = 42.1
+ |Jul record high C = 33.1
+ |Aug record high C = 32.6
+ |Sep record high C = 37.0
+ |Oct record high C = 37.1
+ |Nov record high C = 39.9
+ |Dec record high C = 40.8
+|year record high C = 49.9
+|Jan high C = 32.4
+ |Feb high C = 36.0
+ |Mar high C = 39.6
+ |Apr high C = 38.7
+ |May high C = 33.5
+ |Jun high C = 27.5
+ |Jul high C = 26.1
+ |Aug high C = 26.3
+ |Sep high C = 27.4
+ |Oct high C = 27.6
+ |Nov high C = 27.3
+ |Dec high C = 28.6
+|year high C = 30.9
+|Jan mean C = 24.0
+ |Feb mean C = 24.2
+ |Mar mean C = 24.0
+ |Apr mean C = 24.0
+ |May mean C = 23.9
+ |Jun mean C = 24.2
+ |Jul mean C = 24.5
+ |Aug mean C = 24.9
+ |Sep mean C = 25.1
+ |Oct mean C = 24.3
+ |Nov mean C = 24.4
+ |Dec mean C = 23.9
+|year mean C = 24.3
+|Jan low C = 22.2
+ |Feb low C = 22.7
+ |Mar low C = 23.1
+ |Apr low C = 23.6
+ |May low C = 23.3
+ |Jun low C = 22.1
+ |Jul low C = 22.0
+ |Aug low C = 22.4
+ |Sep low C = 22.5
+ |Oct low C = 22.6
+ |Nov low C = 22.2
+ |Dec low C = 21.8
+|year low C = 22.5
+|Jan record low C = 16.1
+ |Feb record low C = 18.0
+ |Mar record low C = 18.9
+ |Apr record low C = 18.6
+ |May record low C = 17.3
+ |Jun record low C = 14.3
+ |Jul record low C = 14.7
+ |Aug record low C = 15.0
+ |Sep record low C = 17.0
+ |Oct record low C = 17.8
+ |Nov record low C = 16.1
+ |Dec record low C = 16.7
+|year record low C = 14.3
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}

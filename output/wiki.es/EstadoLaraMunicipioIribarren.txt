@@ -1,0 +1,79 @@
+{{clima
+|location = Municipio Iribarren, según mediciones de sensores remotos (2000–2011)
+|metric first = Y
+|single line = Y|Jan record high C = 37.7
+ |Feb record high C = 40.7
+ |Mar record high C = 42.1
+ |Apr record high C = 43.1
+ |May record high C = 41.6
+ |Jun record high C = 39.4
+ |Jul record high C = 39.0
+ |Aug record high C = 41.7
+ |Sep record high C = 42.4
+ |Oct record high C = 42.0
+ |Nov record high C = 38.1
+ |Dec record high C = 36.6
+|year record high C = 43.1
+|Jan high C = 29.9
+ |Feb high C = 31.8
+ |Mar high C = 33.6
+ |Apr high C = 31.8
+ |May high C = 30.2
+ |Jun high C = 28.1
+ |Jul high C = 27.2
+ |Aug high C = 29.9
+ |Sep high C = 31.3
+ |Oct high C = 29.7
+ |Nov high C = 27.5
+ |Dec high C = 27.5
+|year high C = 29.9
+|Jan mean C = 21.4
+ |Feb mean C = 22.3
+ |Mar mean C = 22.2
+ |Apr mean C = 21.3
+ |May mean C = 22.2
+ |Jun mean C = 22.3
+ |Jul mean C = 21.8
+ |Aug mean C = 22.7
+ |Sep mean C = 23.2
+ |Oct mean C = 22.4
+ |Nov mean C = 21.7
+ |Dec mean C = 21.1
+|year mean C = 22.0
+|Jan low C = 18.7
+ |Feb low C = 18.9
+ |Mar low C = 19.5
+ |Apr low C = 19.5
+ |May low C = 20.4
+ |Jun low C = 20.1
+ |Jul low C = 19.8
+ |Aug low C = 20.3
+ |Sep low C = 20.9
+ |Oct low C = 20.3
+ |Nov low C = 19.6
+ |Dec low C = 18.7
+|year low C = 19.7
+|Jan record low C = 13.5
+ |Feb record low C = 12.7
+ |Mar record low C = 12.7
+ |Apr record low C = 12.5
+ |May record low C = 14.3
+ |Jun record low C = 12.3
+ |Jul record low C = 12.9
+ |Aug record low C = 13.9
+ |Sep record low C = 14.6
+ |Oct record low C = 14.0
+ |Nov record low C = 12.2
+ |Dec record low C = 12.7
+|year record low C = 12.2
+
+|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+ |url= http://doi.org/10.5067/MODIS/MOD11A2.006
+ |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
+ |nombre1=Z.|apellido1=Wan
+ |nombre2=S.|apellido2=Hook
+ |nombre3=G.|apellido3=Hulley
+ |year=2015
+ |editorial= NASA EOSDIS LP DAAC
+ |fechaacceso=5 de julio de 2018}}</ref>
+}}
