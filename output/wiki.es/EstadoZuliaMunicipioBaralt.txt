@@ -1,18 +1,18 @@
 {{clima
 |location = Municipio Baralt, según datos de 4 estaciones meteorológicas (1956-1990) y sensores remotos (2000-2011)
 |metric first = Y
-|single line = Y|Jan record high C = 30.0
- |Feb record high C = 32.3
- |Mar record high C = 31.3
- |Apr record high C = 28.7
- |May record high C = 28.5
- |Jun record high C = 28.9
- |Jul record high C = 29.1
- |Aug record high C = 29.6
- |Sep record high C = 29.4
- |Oct record high C = 27.4
- |Nov record high C = 27.5
- |Dec record high C = 28.2
+|single line = Y|Jan record high C = 38.3
+ |Feb record high C = 41.7
+ |Mar record high C = 42.2
+ |Apr record high C = 38.2
+ |May record high C = 36.2
+ |Jun record high C = 36.0
+ |Jul record high C = 38.3
+ |Aug record high C = 38.5
+ |Sep record high C = 36.2
+ |Oct record high C = 34.0
+ |Nov record high C = 34.9
+ |Dec record high C = 35.6
 |year record high C = 42.2
 |Jan high C = 30.0
  |Feb high C = 32.3
@@ -65,7 +65,7 @@
  |Oct record low C = 11.7
  |Nov record low C = 4.4
  |Dec record low C = 12.6
-|year record low C = 21.5
+|year record low C = 4.4
 
 |source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
  |url= http://doi.org/10.5067/MODIS/MOD11A2.006

@@ -90,7 +90,7 @@ refs <- "|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<re
 |metric first = Y
 |single line = Y",titulo))
       
-    cat(file=wiki.out,sprintf("|%s record high C = %0.1f\n",slcTrmax$mes,slcTmax[,2]),append=T)
+    cat(file=wiki.out,sprintf("|%s record high C = %0.1f\n",slcTrmax$mes,slcTrmax[,2]),append=T)
     cat(file=wiki.out,sprintf("|year record high C = %0.1f\n",max(slcTrmax[,2])),append=T)
 
     
@@ -107,7 +107,7 @@ refs <- "|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<re
 
 
     cat(file=wiki.out,sprintf("|%s record low C = %0.1f\n",slcTrmin$mes,slcTrmin[,2]),append=T)
-    cat(file=wiki.out,sprintf("|year record low C = %0.1f\n",min(slcTmin[,2])),append=T)
+    cat(file=wiki.out,sprintf("|year record low C = %0.1f\n",min(slcTrmin[,2])),append=T)
 
     
     if (exists("pres")) {
