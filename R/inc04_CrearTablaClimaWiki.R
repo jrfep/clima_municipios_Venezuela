@@ -1,6 +1,12 @@
-edo <- "Zulia"
-slc <- "Mara"
-edo <- "Yaracuy"
+##R --vanilla
+data.dir <- "../Rdata"
+out.dir <- "../output"
+
+load(sprintf("%s/climaZulia.rda",data.dir))
+
+for (mun in levels(temperatura$municipio)) {
+
+}
 
 for (edo in  unique(gaz.ven.adm2$NAME_1)[13:16]) {
     for (slc in unique(subset(gaz.ven.adm2,NAME_1 %in% edo)$NAME_2)) {

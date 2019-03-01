@@ -4,6 +4,7 @@ require(raster)
 
 ## definir directorios de trabajo
 data.dir <- "../data"
+Rdata.dir <- "../Rdata"
 out.dir <- "../output/svg"
 
 
@@ -60,6 +61,8 @@ for (ff in sprintf("A%s",2000:2011)) {
     gaz.lst <- extract(mps,gaz.ven)
     lsts <- cbind(lsts,mSSt(gaz.lst,ll=7500,ul=NA,cf=0.02,os=-273.15))
 }
+
+save(gaz.ven.adm2,lsts,file=sprintf("%s/LSTdata.rda",Rdata.dir))
 
 ## Ahora podemos calcular los promedios totales, diurnos y nocturnos para cada localidad
 
