@@ -1,18 +1,18 @@
 {{clima
-|location = Municipio Mara, según mediciones de sensores remotos (2000–2011)
+|location = Municipio Mara, según datos de 5 estaciones meteorológicas (1972-1997) y sensores remotos (2000-2011)
 |metric first = Y
-|single line = Y|Jan record high C = 40.7
- |Feb record high C = 41.8
- |Mar record high C = 43.1
- |Apr record high C = 43.1
- |May record high C = 44.2
- |Jun record high C = 40.3
- |Jul record high C = 41.4
- |Aug record high C = 41.5
- |Sep record high C = 41.1
- |Oct record high C = 40.6
- |Nov record high C = 38.6
- |Dec record high C = 38.9
+|single line = Y|Jan record high C = 30.4
+ |Feb record high C = 33.0
+ |Mar record high C = 34.1
+ |Apr record high C = 32.1
+ |May record high C = 29.4
+ |Jun record high C = 29.6
+ |Jul record high C = 31.2
+ |Aug record high C = 29.8
+ |Sep record high C = 29.8
+ |Oct record high C = 28.5
+ |Nov record high C = 27.1
+ |Dec record high C = 27.7
 |year record high C = 44.2
 |Jan high C = 30.4
  |Feb high C = 33.0
@@ -26,20 +26,20 @@
  |Oct high C = 28.5
  |Nov high C = 27.1
  |Dec high C = 27.7
-|year high C = 30.2
-|Jan mean C = 24.6
- |Feb mean C = 24.5
- |Mar mean C = 24.3
- |Apr mean C = 24.4
- |May mean C = 25.5
- |Jun mean C = 25.9
- |Jul mean C = 26.0
- |Aug mean C = 26.6
- |Sep mean C = 26.2
- |Oct mean C = 26.4
- |Nov mean C = 25.0
- |Dec mean C = 24.2
-|year mean C = 25.3
+|year high C = 34.1
+|1 mean C = 27.1
+ |2 mean C = 27.6
+ |3 mean C = 28.2
+ |4 mean C = 28.3
+ |5 mean C = 28.4
+ |6 mean C = 28.7
+ |7 mean C = 29.0
+ |8 mean C = 29.2
+ |9 mean C = 28.9
+ |10 mean C = 28.1
+ |11 mean C = 27.8
+ |12 mean C = 27.1
+|year mean C = 28.2
 |Jan low C = 23.0
  |Feb low C = 23.1
  |Mar low C = 23.3
@@ -52,7 +52,7 @@
  |Oct low C = 23.2
  |Nov low C = 22.8
  |Dec low C = 22.6
-|year low C = 23.5
+|year low C = 22.6
 |Jan record low C = 16.9
  |Feb record low C = 17.6
  |Mar record low C = 16.8
@@ -65,7 +65,7 @@
  |Oct record low C = 14.0
  |Nov record low C = 13.3
  |Dec record low C = 14.7
-|year record low C = 13.3
+|year record low C = 22.6
 
 |source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
  |url= http://doi.org/10.5067/MODIS/MOD11A2.006
@@ -76,4 +76,10 @@
  |year=2015
  |editorial= NASA EOSDIS LP DAAC
  |fechaacceso=5 de julio de 2018}}</ref>
+|source 2 =  Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela<ref name='INAMEH'>{{Cita web
+ |url= http://www.inameh.gob.ve/web/
+ |título= Climatología / Datos Hidrometeorológicos
+ |year=2015
+ |editorial= Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela (INAMEH)
+ |fechaacceso=17 de octubre de 2015}}</ref>
 }}

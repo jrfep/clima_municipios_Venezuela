@@ -1,18 +1,18 @@
 {{clima
-|location = Municipio Baralt, según mediciones de sensores remotos (2000–2011)
+|location = Municipio Baralt, según datos de 4 estaciones meteorológicas (1956-1990) y sensores remotos (2000-2011)
 |metric first = Y
-|single line = Y|Jan record high C = 38.3
- |Feb record high C = 41.7
- |Mar record high C = 42.2
- |Apr record high C = 38.2
- |May record high C = 36.2
- |Jun record high C = 36.0
- |Jul record high C = 38.3
- |Aug record high C = 38.5
- |Sep record high C = 36.2
- |Oct record high C = 34.0
- |Nov record high C = 34.9
- |Dec record high C = 35.6
+|single line = Y|Jan record high C = 30.0
+ |Feb record high C = 32.3
+ |Mar record high C = 31.3
+ |Apr record high C = 28.7
+ |May record high C = 28.5
+ |Jun record high C = 28.9
+ |Jul record high C = 29.1
+ |Aug record high C = 29.6
+ |Sep record high C = 29.4
+ |Oct record high C = 27.4
+ |Nov record high C = 27.5
+ |Dec record high C = 28.2
 |year record high C = 42.2
 |Jan high C = 30.0
  |Feb high C = 32.3
@@ -26,20 +26,20 @@
  |Oct high C = 27.4
  |Nov high C = 27.5
  |Dec high C = 28.2
-|year high C = 29.2
-|Jan mean C = 24.0
- |Feb mean C = 24.2
- |Mar mean C = 23.9
- |Apr mean C = 23.9
- |May mean C = 25.1
- |Jun mean C = 25.0
- |Jul mean C = 24.9
- |Aug mean C = 26.3
- |Sep mean C = 26.5
- |Oct mean C = 25.1
- |Nov mean C = 24.1
- |Dec mean C = 23.9
-|year mean C = 24.7
+|year high C = 32.3
+|1 mean C = 27.3
+ |2 mean C = 27.6
+ |3 mean C = 28.0
+ |4 mean C = 27.7
+ |5 mean C = 27.6
+ |6 mean C = 27.7
+ |7 mean C = 27.7
+ |8 mean C = 27.6
+ |9 mean C = 27.3
+ |10 mean C = 27.0
+ |11 mean C = 26.8
+ |12 mean C = 26.8
+|year mean C = 27.4
 |Jan low C = 21.8
  |Feb low C = 22.2
  |Mar low C = 22.6
@@ -52,7 +52,7 @@
  |Oct low C = 22.0
  |Nov low C = 21.9
  |Dec low C = 21.5
-|year low C = 22.3
+|year low C = 21.5
 |Jan record low C = 14.1
  |Feb record low C = 14.9
  |Mar record low C = 13.9
@@ -65,7 +65,7 @@
  |Oct record low C = 11.7
  |Nov record low C = 4.4
  |Dec record low C = 12.6
-|year record low C = 4.4
+|year record low C = 21.5
 
 |source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
  |url= http://doi.org/10.5067/MODIS/MOD11A2.006
@@ -76,4 +76,10 @@
  |year=2015
  |editorial= NASA EOSDIS LP DAAC
  |fechaacceso=5 de julio de 2018}}</ref>
+|source 2 =  Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela<ref name='INAMEH'>{{Cita web
+ |url= http://www.inameh.gob.ve/web/
+ |título= Climatología / Datos Hidrometeorológicos
+ |year=2015
+ |editorial= Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela (INAMEH)
+ |fechaacceso=17 de octubre de 2015}}</ref>
 }}
