@@ -1,5 +1,5 @@
 {{clima
-|location = Municipio La Cañada de Urdaneta, según mediciones de sensores remotos (2000–2011)
+|location = Municipio La Cañada de Urdaneta, según datos de 2 estaciones meteorológicas (1978-1990) y sensores remotos (2000-2011)
 |metric first = Y
 |single line = Y|Jan record high C = 41.7
  |Feb record high C = 43.8
@@ -26,20 +26,20 @@
  |Oct high C = 28.0
  |Nov high C = 27.7
  |Dec high C = 29.8
-|year high C = 30.9
-|Jan mean C = 24.6
- |Feb mean C = 24.4
- |Mar mean C = 24.0
- |Apr mean C = 24.0
- |May mean C = 25.3
- |Jun mean C = 25.3
- |Jul mean C = 25.7
- |Aug mean C = 26.2
- |Sep mean C = 26.1
- |Oct mean C = 25.6
- |Nov mean C = 24.6
- |Dec mean C = 24.1
-|year mean C = 25.0
+|year high C = 36.1
+|Apr mean C = 28.0
+ |Aug mean C = 28.8
+ |Dec mean C = 27.6
+ |Feb mean C = 27.6
+ |Jan mean C = 27.5
+ |Jul mean C = 28.7
+ |Jun mean C = 28.6
+ |Mar mean C = 28.1
+ |May mean C = 28.4
+ |Nov mean C = 27.8
+ |Oct mean C = 27.3
+ |Sep mean C = 28.1
+|year mean C = 28.1
 |Jan low C = 22.9
  |Feb low C = 23.2
  |Mar low C = 23.5
@@ -52,7 +52,7 @@
  |Oct low C = 23.5
  |Nov low C = 23.1
  |Dec low C = 22.4
-|year low C = 23.6
+|year low C = 22.4
 |Jan record low C = 19.6
  |Feb record low C = 19.4
  |Mar record low C = 17.9
@@ -76,4 +76,10 @@
  |year=2015
  |editorial= NASA EOSDIS LP DAAC
  |fechaacceso=5 de julio de 2018}}</ref>
+|source 2 =  Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela<ref name='INAMEH'>{{Cita web
+ |url= http://www.inameh.gob.ve/web/
+ |título= Climatología / Datos Hidrometeorológicos
+ |year=2015
+ |editorial= Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela (INAMEH)
+ |fechaacceso=17 de octubre de 2015}}</ref>
 }}

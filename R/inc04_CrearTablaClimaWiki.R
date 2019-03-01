@@ -12,7 +12,7 @@ out.dir <- "../output"
 adm2 <- readRDS(sprintf("%s/VEN_adm2.rds",data.dir))
 
 load(sprintf("%s/LSTdata.rda",Rdata.dir))
-        
+
 
 for (edo in  unique(gaz.ven.adm2$NAME_1)[1]) {
 
@@ -28,7 +28,7 @@ for (edo in  unique(gaz.ven.adm2$NAME_1)[1]) {
 
             ss <- gaz.ven.adm2$NAME_1 %in% edo & gaz.ven.adm2$NAME_2 %in% slc
             titulo <- sprintf("Municipio %s, según  mediciones de sensores remotos (2000–2011)",slc)
-refs <- "|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
+            refs <- "|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<ref name='SMN'>{{Cita web
  |url= http://doi.org/10.5067/MODIS/MOD11A2.006
  |título= MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity 8-Day L3 Global 1km SIN Grid V006 [Data set]
  |nombre1=Z.|apellido1=Wan
@@ -48,12 +48,12 @@ refs <- "|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<re
             slcTrmax <- with(subset(dts,grepl("Day",dts$ind)),
                              aggregate(data.frame(val=values),
                                        by=list(mes=meses),
-                                      function(x) {quantile(ecdf(x),.995)}))
+                                       function(x) {quantile(ecdf(x),.995)}))
             
             slcTmax <- with(subset(dts,grepl("Day",dts$ind)),
-                                 aggregate(data.frame(val=values),
-                                           by=list(mes=meses),
-                                           function(x) {quantile(ecdf(x),.5)}))
+                            aggregate(data.frame(val=values),
+                                      by=list(mes=meses),
+                                      function(x) {quantile(ecdf(x),.5)}))
             
             slcTmean <- with(dts,
                              aggregate(data.frame(val=values),
@@ -70,54 +70,56 @@ refs <- "|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<re
             
             
             if (nrow(inameh)>0) {
-                refs[2] <- "|source 2 =  Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela<ref name='INAMEH'>{{Cita web
+                wch <- subset(temperatura,serial %in% inameh$SERIAL)
+                if (nrow(wch)>0) {
+                    refs[2] <- "|source 2 =  Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela<ref name='INAMEH'>{{Cita web
  |url= http://www.inameh.gob.ve/web/
  |título= Climatología / Datos Hidrometeorológicos
  |year=2015
  |editorial= Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela (INAMEH)
  |fechaacceso=17 de octubre de 2015}}</ref>"
-
-                
-                wch <- subset(temperatura,serial %in% inameh$SERIAL)
-                titulo <- sprintf("Municipio %s, según datos de %s estaciones meteorológicas (%s-%s) y sensores remotos (2000-2011)",slc, length(unique(wch$serial)),min(wch$año),max(wch$año))
-                
-                slcTmean <- aggregate(data.frame(Tmean=wch$temperatura),list(mes=month.abb[wch$mes]),mean,na.rm=T)                
+                    
+                    
+                    titulo <- sprintf("Municipio %s, según datos de %s estaciones meteorológicas (%s-%s) y sensores remotos (2000-2011)",slc, length(unique(wch$serial)),min(wch$año),max(wch$año))
+                    
+                    slcTmean <- aggregate(data.frame(Tmean=wch$temperatura),list(mes=month.abb[wch$mes]),mean,na.rm=T)                
+                }
             }
 
 
-    cat(file=wiki.out,sprintf("{{clima
+            cat(file=wiki.out,sprintf("{{clima
 |location = %s
 |metric first = Y
 |single line = Y",titulo))
-      
-    cat(file=wiki.out,sprintf("|%s record high C = %0.1f\n",slcTrmax$mes,slcTrmax[,2]),append=T)
-    cat(file=wiki.out,sprintf("|year record high C = %0.1f\n",max(slcTrmax[,2])),append=T)
+            
+            cat(file=wiki.out,sprintf("|%s record high C = %0.1f\n",slcTrmax$mes,slcTrmax[,2]),append=T)
+            cat(file=wiki.out,sprintf("|year record high C = %0.1f\n",max(slcTrmax[,2])),append=T)
 
-    
-    cat(file=wiki.out,sprintf("|%s high C = %0.1f\n",slcTmax$mes,slcTmax[,2]),append=T)
-    cat(file=wiki.out,sprintf("|year high C = %0.1f\n",max(slcTmax[,2])),append=T)
-
-
-    cat(file=wiki.out,sprintf("|%s mean C = %0.1f\n",slcTmean$mes,slcTmean[,2]),append=T)
-    cat(file=wiki.out,sprintf("|year mean C = %0.1f\n",mean(slcTmean[,2])),append=T)
+            
+            cat(file=wiki.out,sprintf("|%s high C = %0.1f\n",slcTmax$mes,slcTmax[,2]),append=T)
+            cat(file=wiki.out,sprintf("|year high C = %0.1f\n",max(slcTmax[,2])),append=T)
 
 
-    cat(file=wiki.out,sprintf("|%s low C = %0.1f\n",slcTmin$mes,slcTmin[,2]),append=T)
-    cat(file=wiki.out,sprintf("|year low C = %0.1f\n",min(slcTmin[,2])),append=T)
+            cat(file=wiki.out,sprintf("|%s mean C = %0.1f\n",slcTmean$mes,slcTmean[,2]),append=T)
+            cat(file=wiki.out,sprintf("|year mean C = %0.1f\n",mean(slcTmean[,2])),append=T)
 
 
-    cat(file=wiki.out,sprintf("|%s record low C = %0.1f\n",slcTrmin$mes,slcTrmin[,2]),append=T)
-    cat(file=wiki.out,sprintf("|year record low C = %0.1f\n",min(slcTrmin[,2])),append=T)
+            cat(file=wiki.out,sprintf("|%s low C = %0.1f\n",slcTmin$mes,slcTmin[,2]),append=T)
+            cat(file=wiki.out,sprintf("|year low C = %0.1f\n",min(slcTmin[,2])),append=T)
 
-    
-    if (exists("pres")) {
-        for (mm in month.abb) {
-            cat(file=wiki.out,sprintf("|%s precipitation mm = %0.1f\n",mm,),append=T)
-        }
-        cat(file=wiki.out,sprintf("|year precipitation mm = %0.1f\n",),append=T)
-    }
-    
-    cat(file=wiki.out,sprintf("
+
+            cat(file=wiki.out,sprintf("|%s record low C = %0.1f\n",slcTrmin$mes,slcTrmin[,2]),append=T)
+            cat(file=wiki.out,sprintf("|year record low C = %0.1f\n",min(slcTrmin[,2])),append=T)
+
+            
+            if (exists("pres")) {
+                for (mm in month.abb) {
+                    cat(file=wiki.out,sprintf("|%s precipitation mm = %0.1f\n",mm,),append=T)
+                }
+                cat(file=wiki.out,sprintf("|year precipitation mm = %0.1f\n",),append=T)
+            }
+            
+            cat(file=wiki.out,sprintf("
 %s
 }}", paste(refs,collapse="\n")),append=T)
         }

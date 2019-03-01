@@ -1,5 +1,5 @@
 {{clima
-|location = Municipio Miranda, según mediciones de sensores remotos (2000–2011)
+|location = Municipio Miranda, según datos de 1 estaciones meteorológicas (1971-1977) y sensores remotos (2000-2011)
 |metric first = Y
 |single line = Y|Jan record high C = 40.7
  |Feb record high C = 44.2
@@ -26,20 +26,20 @@
  |Oct high C = 28.4
  |Nov high C = 28.1
  |Dec high C = 30.0
-|year high C = 31.7
-|Jan mean C = 25.6
- |Feb mean C = 25.4
- |Mar mean C = 25.0
- |Apr mean C = 24.9
- |May mean C = 26.6
- |Jun mean C = 26.6
- |Jul mean C = 26.8
- |Aug mean C = 27.5
- |Sep mean C = 27.2
- |Oct mean C = 26.6
- |Nov mean C = 25.6
- |Dec mean C = 25.1
-|year mean C = 26.1
+|year high C = 38.0
+|Apr mean C = 27.9
+ |Aug mean C = 28.5
+ |Dec mean C = 26.8
+ |Feb mean C = 26.8
+ |Jan mean C = 26.5
+ |Jul mean C = 28.5
+ |Jun mean C = 28.4
+ |Mar mean C = 27.3
+ |May mean C = 28.2
+ |Nov mean C = 27.5
+ |Oct mean C = 27.4
+ |Sep mean C = 28.0
+|year mean C = 27.7
 |Jan low C = 23.2
  |Feb low C = 23.6
  |Mar low C = 23.7
@@ -52,7 +52,7 @@
  |Oct low C = 23.6
  |Nov low C = 23.2
  |Dec low C = 22.7
-|year low C = 23.7
+|year low C = 22.7
 |Jan record low C = 19.2
  |Feb record low C = 20.0
  |Mar record low C = 17.3
@@ -76,4 +76,10 @@
  |year=2015
  |editorial= NASA EOSDIS LP DAAC
  |fechaacceso=5 de julio de 2018}}</ref>
+|source 2 =  Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela<ref name='INAMEH'>{{Cita web
+ |url= http://www.inameh.gob.ve/web/
+ |título= Climatología / Datos Hidrometeorológicos
+ |year=2015
+ |editorial= Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela (INAMEH)
+ |fechaacceso=17 de octubre de 2015}}</ref>
 }}

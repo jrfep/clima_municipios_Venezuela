@@ -1,5 +1,5 @@
 {{clima
-|location = Municipio Simón Bolívar, según mediciones de sensores remotos (2000–2011)
+|location = Municipio Simón Bolívar, según  mediciones de sensores remotos (2000–2011)
 |metric first = Y
 |single line = Y|Jan record high C = 39.2
  |Feb record high C = 43.5
@@ -26,7 +26,7 @@
  |Oct high C = 28.6
  |Nov high C = 28.1
  |Dec high C = 29.1
-|year high C = 30.8
+|year high C = 35.3
 |Jan mean C = 25.8
  |Feb mean C = 25.5
  |Mar mean C = 24.7
@@ -52,7 +52,7 @@
  |Oct low C = 23.2
  |Nov low C = 22.6
  |Dec low C = 22.1
-|year low C = 23.3
+|year low C = 22.1
 |Jan record low C = 19.1
  |Feb record low C = 18.6
  |Mar record low C = 17.3
