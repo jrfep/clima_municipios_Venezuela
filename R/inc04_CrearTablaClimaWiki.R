@@ -81,7 +81,7 @@ refs <- "|source 1 =  MOD11A2 MODIS/Terra Land Surface Temperature/Emissivity<re
                 wch <- subset(temperatura,serial %in% inameh$SERIAL)
                 titulo <- sprintf("Municipio %s, según datos de %s estaciones meteorológicas (%s-%s) y sensores remotos (2000-2011)",slc, length(unique(wch$serial)),min(wch$año),max(wch$año))
                 
-                slcTmean <- aggregate(data.frame(Tmean=wch$temperatura),list(mes=wch$mes),mean,na.rm=T)                
+                slcTmean <- aggregate(data.frame(Tmean=wch$temperatura),list(mes=month.abb[wch$mes]),mean,na.rm=T)                
             }
 
 
