@@ -1,5 +1,5 @@
 {{clima
-|location = Municipio Francisco Javier Pulgar, según mediciones de sensores remotos (2000–2011)
+|location = Municipio Francisco Javier Pulgar, según  mediciones de sensores remotos (2000–2011)
 |metric first = Y
 |single line = Y|Jan record high C = 32.4
  |Feb record high C = 34.1
@@ -26,7 +26,7 @@
  |Oct high C = 28.8
  |Nov high C = 27.2
  |Dec high C = 26.6
-|year high C = 28.4
+|year high C = 30.7
 |Jan mean C = 23.9
  |Feb mean C = 24.1
  |Mar mean C = 23.7
@@ -52,7 +52,7 @@
  |Oct low C = 23.0
  |Nov low C = 22.2
  |Dec low C = 21.9
-|year low C = 22.9
+|year low C = 21.9
 |Jan record low C = 13.7
  |Feb record low C = 13.1
  |Mar record low C = 13.3

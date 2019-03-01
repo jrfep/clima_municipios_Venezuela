@@ -1,5 +1,5 @@
 {{clima
-|location = Municipio Sucre, según mediciones de sensores remotos (2000–2011)
+|location = Municipio Sucre, según  mediciones de sensores remotos (2000–2011)
 |metric first = Y
 |single line = Y|Jan record high C = 33.3
  |Feb record high C = 35.7
@@ -26,7 +26,7 @@
  |Oct high C = 28.0
  |Nov high C = 27.0
  |Dec high C = 26.8
-|year high C = 27.9
+|year high C = 29.4
 |Jan mean C = 24.9
  |Feb mean C = 24.3
  |Mar mean C = 24.2
@@ -52,7 +52,7 @@
  |Oct low C = 22.9
  |Nov low C = 22.3
  |Dec low C = 21.5
-|year low C = 22.7
+|year low C = 21.5
 |Jan record low C = 11.8
  |Feb record low C = 12.8
  |Mar record low C = 9.7

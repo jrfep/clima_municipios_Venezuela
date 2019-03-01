@@ -1,5 +1,5 @@
 {{clima
-|location = Municipio Catatumbo, según mediciones de sensores remotos (2000–2011)
+|location = Municipio Catatumbo, según datos de 1 estaciones meteorológicas (1977-1985) y sensores remotos (2000-2011)
 |metric first = Y
 |single line = Y|Jan record high C = 34.8
  |Feb record high C = 38.8
@@ -26,20 +26,20 @@
  |Oct high C = 27.5
  |Nov high C = 26.1
  |Dec high C = 25.9
-|year high C = 27.5
-|Jan mean C = 23.9
- |Feb mean C = 24.1
- |Mar mean C = 24.2
- |Apr mean C = 24.9
- |May mean C = 26.4
- |Jun mean C = 26.1
- |Jul mean C = 26.7
- |Aug mean C = 27.1
- |Sep mean C = 27.5
- |Oct mean C = 26.8
- |Nov mean C = 24.9
- |Dec mean C = 23.9
-|year mean C = 25.5
+|year high C = 28.7
+|Apr mean C = 28.3
+ |Aug mean C = 28.9
+ |Dec mean C = 27.9
+ |Feb mean C = 27.8
+ |Jan mean C = 27.6
+ |Jul mean C = 28.8
+ |Jun mean C = 28.6
+ |Mar mean C = 28.2
+ |May mean C = 28.5
+ |Nov mean C = 28.6
+ |Oct mean C = 29.1
+ |Sep mean C = 29.2
+|year mean C = 28.5
 |Jan low C = 22.5
  |Feb low C = 22.6
  |Mar low C = 22.8
@@ -52,7 +52,7 @@
  |Oct low C = 23.8
  |Nov low C = 23.0
  |Dec low C = 22.2
-|year low C = 23.4
+|year low C = 22.2
 |Jan record low C = 14.6
  |Feb record low C = 16.7
  |Mar record low C = 13.3
@@ -76,4 +76,10 @@
  |year=2015
  |editorial= NASA EOSDIS LP DAAC
  |fechaacceso=5 de julio de 2018}}</ref>
+|source 2 =  Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela<ref name='INAMEH'>{{Cita web
+ |url= http://www.inameh.gob.ve/web/
+ |título= Climatología / Datos Hidrometeorológicos
+ |year=2015
+ |editorial= Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela (INAMEH)
+ |fechaacceso=17 de octubre de 2015}}</ref>
 }}

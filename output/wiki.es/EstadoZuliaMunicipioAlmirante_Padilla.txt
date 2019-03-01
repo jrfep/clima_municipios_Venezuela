@@ -1,5 +1,5 @@
 {{clima
-|location = Municipio Almirante Padilla, según mediciones de sensores remotos (2000–2011)
+|location = Municipio Almirante Padilla, según  mediciones de sensores remotos (2000–2011)
 |metric first = Y
 |single line = Y|Jan record high C = 35.5
  |Feb record high C = 37.0
@@ -26,7 +26,7 @@
  |Oct high C = 29.2
  |Nov high C = 27.9
  |Dec high C = 28.5
-|year high C = 30.7
+|year high C = 31.9
 |Jan mean C = 25.3
  |Feb mean C = 25.3
  |Mar mean C = 25.8
@@ -52,7 +52,7 @@
  |Oct low C = 25.3
  |Nov low C = 24.7
  |Dec low C = 24.0
-|year low C = 24.9
+|year low C = 24.0
 |Jan record low C = 21.4
  |Feb record low C = 21.4
  |Mar record low C = 19.5

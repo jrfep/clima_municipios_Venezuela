@@ -1,5 +1,5 @@
 {{clima
-|location = Municipio Guajira, según mediciones de sensores remotos (2000–2011)
+|location = Municipio Guajira, según datos de 2 estaciones meteorológicas (1971-1997) y sensores remotos (2000-2011)
 |metric first = Y
 |single line = Y|Jan record high C = 37.5
  |Feb record high C = 38.5
@@ -26,20 +26,20 @@
  |Oct high C = 29.7
  |Nov high C = 28.3
  |Dec high C = 29.0
-|year high C = 32.3
-|Jan mean C = 25.1
- |Feb mean C = 25.1
- |Mar mean C = 25.8
- |Apr mean C = 26.5
- |May mean C = 27.6
- |Jun mean C = 27.5
- |Jul mean C = 27.2
- |Aug mean C = 28.0
- |Sep mean C = 28.0
- |Oct mean C = 27.0
- |Nov mean C = 25.4
- |Dec mean C = 24.8
-|year mean C = 26.5
+|year high C = 34.8
+|Apr mean C = 27.2
+ |Aug mean C = 28.1
+ |Dec mean C = 26.2
+ |Feb mean C = 26.4
+ |Jan mean C = 26.3
+ |Jul mean C = 27.9
+ |Jun mean C = 28.1
+ |Mar mean C = 26.5
+ |May mean C = 27.9
+ |Nov mean C = 27.2
+ |Oct mean C = 27.4
+ |Sep mean C = 27.7
+|year mean C = 27.2
 |Jan low C = 23.7
  |Feb low C = 23.6
  |Mar low C = 23.7
@@ -52,7 +52,7 @@
  |Oct low C = 24.4
  |Nov low C = 23.6
  |Dec low C = 23.4
-|year low C = 24.2
+|year low C = 23.4
 |Jan record low C = 18.8
  |Feb record low C = 18.5
  |Mar record low C = 17.1
@@ -76,4 +76,10 @@
  |year=2015
  |editorial= NASA EOSDIS LP DAAC
  |fechaacceso=5 de julio de 2018}}</ref>
+|source 2 =  Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela<ref name='INAMEH'>{{Cita web
+ |url= http://www.inameh.gob.ve/web/
+ |título= Climatología / Datos Hidrometeorológicos
+ |year=2015
+ |editorial= Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela (INAMEH)
+ |fechaacceso=17 de octubre de 2015}}</ref>
 }}

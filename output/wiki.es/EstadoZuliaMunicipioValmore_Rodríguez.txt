@@ -1,5 +1,5 @@
 {{clima
-|location = Municipio Valmore Rodríguez, según mediciones de sensores remotos (2000–2011)
+|location = Municipio Valmore Rodríguez, según datos de 1 estaciones meteorológicas (1980-1981) y sensores remotos (2000-2011)
 |metric first = Y
 |single line = Y|Jan record high C = 39.8
  |Feb record high C = 43.3
@@ -26,20 +26,20 @@
  |Oct high C = 27.1
  |Nov high C = 27.8
  |Dec high C = 28.6
-|year high C = 29.8
-|Jan mean C = 25.1
- |Feb mean C = 25.0
- |Mar mean C = 24.2
- |Apr mean C = 24.9
- |May mean C = 26.1
- |Jun mean C = 25.8
- |Jul mean C = 26.1
- |Aug mean C = 26.9
- |Sep mean C = 27.1
- |Oct mean C = 25.6
- |Nov mean C = 24.6
- |Dec mean C = 24.5
-|year mean C = 25.5
+|year high C = 34.0
+|Apr mean C = 28.5
+ |Aug mean C = 29.0
+ |Dec mean C = 28.2
+ |Feb mean C = 28.4
+ |Jan mean C = 28.1
+ |Jul mean C = 28.9
+ |Jun mean C = 29.0
+ |Mar mean C = 29.0
+ |May mean C = 28.3
+ |Nov mean C = 28.1
+ |Oct mean C = 28.5
+ |Sep mean C = 28.5
+|year mean C = 28.6
 |Jan low C = 22.8
  |Feb low C = 23.2
  |Mar low C = 23.3
@@ -52,7 +52,7 @@
  |Oct low C = 22.6
  |Nov low C = 22.6
  |Dec low C = 22.3
-|year low C = 23.3
+|year low C = 22.3
 |Jan record low C = 17.1
  |Feb record low C = 18.1
  |Mar record low C = 16.6
@@ -76,4 +76,10 @@
  |year=2015
  |editorial= NASA EOSDIS LP DAAC
  |fechaacceso=5 de julio de 2018}}</ref>
+|source 2 =  Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela<ref name='INAMEH'>{{Cita web
+ |url= http://www.inameh.gob.ve/web/
+ |título= Climatología / Datos Hidrometeorológicos
+ |year=2015
+ |editorial= Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela (INAMEH)
+ |fechaacceso=17 de octubre de 2015}}</ref>
 }}

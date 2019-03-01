@@ -1,5 +1,5 @@
 {{clima
-|location = Municipio Jesús María Semprún, según mediciones de sensores remotos (2000–2011)
+|location = Municipio Jesús María Semprún, según datos de 1 estaciones meteorológicas (1980-1982) y sensores remotos (2000-2011)
 |metric first = Y
 |single line = Y|Jan record high C = 34.2
  |Feb record high C = 37.6
@@ -26,20 +26,20 @@
  |Oct high C = 27.5
  |Nov high C = 26.2
  |Dec high C = 26.2
-|year high C = 27.9
-|Jan mean C = 23.9
- |Feb mean C = 24.8
- |Mar mean C = 24.5
- |Apr mean C = 26.0
- |May mean C = 27.2
- |Jun mean C = 26.8
- |Jul mean C = 27.5
- |Aug mean C = 27.6
- |Sep mean C = 27.7
- |Oct mean C = 27.1
- |Nov mean C = 24.9
- |Dec mean C = 24.2
-|year mean C = 26.0
+|year high C = 29.3
+|Apr mean C = 26.1
+ |Aug mean C = 27.8
+ |Dec mean C = 27.4
+ |Feb mean C = 27.8
+ |Jan mean C = 27.5
+ |Jul mean C = 28.3
+ |Jun mean C = 27.9
+ |Mar mean C = 27.1
+ |May mean C = 24.3
+ |Nov mean C = 27.8
+ |Oct mean C = 28.1
+ |Sep mean C = 28.2
+|year mean C = 27.4
 |Jan low C = 22.2
  |Feb low C = 22.3
  |Mar low C = 22.5
@@ -52,7 +52,7 @@
  |Oct low C = 22.9
  |Nov low C = 22.5
  |Dec low C = 21.7
-|year low C = 22.9
+|year low C = 21.7
 |Jan record low C = 11.7
  |Feb record low C = 10.8
  |Mar record low C = 14.0
@@ -76,4 +76,10 @@
  |year=2015
  |editorial= NASA EOSDIS LP DAAC
  |fechaacceso=5 de julio de 2018}}</ref>
+|source 2 =  Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela<ref name='INAMEH'>{{Cita web
+ |url= http://www.inameh.gob.ve/web/
+ |título= Climatología / Datos Hidrometeorológicos
+ |year=2015
+ |editorial= Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela (INAMEH)
+ |fechaacceso=17 de octubre de 2015}}</ref>
 }}

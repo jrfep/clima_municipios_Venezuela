@@ -1,5 +1,5 @@
 {{clima
-|location = Municipio Colón, según mediciones de sensores remotos (2000–2011)
+|location = Municipio Colón, según datos de 2 estaciones meteorológicas (1967-1987) y sensores remotos (2000-2011)
 |metric first = Y
 |single line = Y|Jan record high C = 34.6
  |Feb record high C = 38.1
@@ -26,20 +26,20 @@
  |Oct high C = 28.8
  |Nov high C = 27.0
  |Dec high C = 26.5
-|year high C = 28.3
-|Jan mean C = 23.6
- |Feb mean C = 23.6
- |Mar mean C = 23.2
- |Apr mean C = 23.9
- |May mean C = 26.7
- |Jun mean C = 26.5
- |Jul mean C = 27.2
- |Aug mean C = 27.9
- |Sep mean C = 28.4
- |Oct mean C = 27.3
- |Nov mean C = 24.8
- |Dec mean C = 24.3
-|year mean C = 25.6
+|year high C = 30.5
+|Apr mean C = 28.0
+ |Aug mean C = 28.1
+ |Dec mean C = 27.5
+ |Feb mean C = 27.6
+ |Jan mean C = 27.3
+ |Jul mean C = 28.1
+ |Jun mean C = 28.3
+ |Mar mean C = 27.8
+ |May mean C = 28.5
+ |Nov mean C = 28.0
+ |Oct mean C = 28.0
+ |Sep mean C = 28.2
+|year mean C = 27.9
 |Jan low C = 21.9
  |Feb low C = 22.1
  |Mar low C = 22.4
@@ -52,7 +52,7 @@
  |Oct low C = 22.8
  |Nov low C = 22.2
  |Dec low C = 21.7
-|year low C = 22.8
+|year low C = 21.7
 |Jan record low C = 12.9
  |Feb record low C = 13.8
  |Mar record low C = 14.4
@@ -76,4 +76,10 @@
  |year=2015
  |editorial= NASA EOSDIS LP DAAC
  |fechaacceso=5 de julio de 2018}}</ref>
+|source 2 =  Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela<ref name='INAMEH'>{{Cita web
+ |url= http://www.inameh.gob.ve/web/
+ |título= Climatología / Datos Hidrometeorológicos
+ |year=2015
+ |editorial= Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela (INAMEH)
+ |fechaacceso=17 de octubre de 2015}}</ref>
 }}

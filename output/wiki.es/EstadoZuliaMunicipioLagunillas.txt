@@ -1,5 +1,5 @@
 {{clima
-|location = Municipio Lagunillas, según mediciones de sensores remotos (2000–2011)
+|location = Municipio Lagunillas, según datos de 3 estaciones meteorológicas (1956-1987) y sensores remotos (2000-2011)
 |metric first = Y
 |single line = Y|Jan record high C = 41.3
  |Feb record high C = 43.8
@@ -26,20 +26,20 @@
  |Oct high C = 27.8
  |Nov high C = 27.7
  |Dec high C = 29.0
-|year high C = 30.1
-|Jan mean C = 25.7
- |Feb mean C = 25.5
- |Mar mean C = 24.8
- |Apr mean C = 25.0
- |May mean C = 26.6
- |Jun mean C = 26.3
- |Jul mean C = 26.4
- |Aug mean C = 27.1
- |Sep mean C = 26.6
- |Oct mean C = 25.9
- |Nov mean C = 24.9
- |Dec mean C = 24.8
-|year mean C = 25.8
+|year high C = 34.2
+|Apr mean C = 28.3
+ |Aug mean C = 27.6
+ |Dec mean C = 26.9
+ |Feb mean C = 27.8
+ |Jan mean C = 27.1
+ |Jul mean C = 27.6
+ |Jun mean C = 27.7
+ |Mar mean C = 28.3
+ |May mean C = 27.6
+ |Nov mean C = 27.2
+ |Oct mean C = 27.3
+ |Sep mean C = 27.5
+|year mean C = 27.6
 |Jan low C = 22.9
  |Feb low C = 23.3
  |Mar low C = 23.5
@@ -52,7 +52,7 @@
  |Oct low C = 23.3
  |Nov low C = 22.7
  |Dec low C = 22.4
-|year low C = 23.5
+|year low C = 22.4
 |Jan record low C = 18.5
  |Feb record low C = 18.3
  |Mar record low C = 17.6
@@ -76,4 +76,10 @@
  |year=2015
  |editorial= NASA EOSDIS LP DAAC
  |fechaacceso=5 de julio de 2018}}</ref>
+|source 2 =  Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela<ref name='INAMEH'>{{Cita web
+ |url= http://www.inameh.gob.ve/web/
+ |título= Climatología / Datos Hidrometeorológicos
+ |year=2015
+ |editorial= Instituto Nacional de Meteorología e Hidrología de la República Bolivariana de Venezuela (INAMEH)
+ |fechaacceso=17 de octubre de 2015}}</ref>
 }}
